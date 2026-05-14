@@ -5775,20 +5775,21 @@
   },
   {
     "name": "Beauty and the Beast",
-    "year": 2017,
-    "rating": 2.5,
+    "year": 1991,
+    "rating": 3.0,
     "genres": [
+      "Romance",
       "Family",
-      "Fantasy",
-      "Romance"
+      "Animation",
+      "Fantasy"
     ],
-    "director": "Bill Condon",
+    "director": "Gary Trousdale",
     "cast": [
-      "Emma Watson",
-      "Dan Stevens",
-      "Luke Evans",
-      "Kevin Kline",
-      "Emma Thompson"
+      "Paige O'Hara",
+      "Robby Benson",
+      "Richard White",
+      "Jerry Orbach",
+      "David Ogden Stiers"
     ]
   },
   {
@@ -6419,25 +6420,6 @@
       "Linda Larkin",
       "Jonathan Freeman",
       "Gilbert Gottfried"
-    ]
-  },
-  {
-    "name": "Beauty and the Beast",
-    "year": 1991,
-    "rating": 3.0,
-    "genres": [
-      "Romance",
-      "Family",
-      "Animation",
-      "Fantasy"
-    ],
-    "director": "Gary Trousdale",
-    "cast": [
-      "Paige O'Hara",
-      "Robby Benson",
-      "Richard White",
-      "Jerry Orbach",
-      "David Ogden Stiers"
     ]
   },
   {
