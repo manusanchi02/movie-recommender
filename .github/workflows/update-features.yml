@@ -1,4 +1,4 @@
-name: Update Movie Features
+name: Update Movie Features from Letterboxd
 
 on:
   schedule:
@@ -9,40 +9,41 @@ on:
   workflow_dispatch
 
 jobs:
-  update-features:
+  sync-letterboxd:
     runs-on: ubuntu-latest
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
       
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-      
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.11'
       
       - name: Install dependencies
         run: |
-          npm install
-          pip install requests python-dotenv
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
       
-      - name: Run feature extractor
+      - name: Sync Letterboxd to myMovieFeatures.json
         env:
-          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
-          LETTERBOXD_USERNAME: ${{ secrets.LETTERBOXD_USERNAME }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          LETTERBOXD_USERNAME: manusanchi
         run: |
-          python feature_extractor.py
+          python update_features_from_letterboxd.py
       
       - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add public/myMovieFeatures.json
-          git commit -m "Update movie features $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
-          git push
+          git config --local user.email "github-action@example.com"
+          git config --local user.name "GitHub Action Bot"
+          
+          # Verifica se ci sono cambiamenti
+          if git diff --quiet public/myMovieFeatures.json; then
+            echo "Nessun cambiamento nei film"
+          else
+            git add public/myMovieFeatures.json
+            git commit -m "chore: Update movie features from Letterboxd $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
+
