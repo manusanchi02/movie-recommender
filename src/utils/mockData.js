@@ -1,0 +1,70 @@
+/**
+ * Dati mock per test dell'interfaccia
+ */
+export const mockMovies = [
+  {
+    tmdbId: 550,
+    title: "Fight Club",
+    year: 1999,
+    genres: ["Drama", "Thriller"],
+    director: "David Fincher",
+    cast: ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+    posterPath: "/pB8BM7pdSp6B6Ih7QSoODO7EXHG.jpg",
+    overview: "An insomniac office worker and a devil-may-care soapmaker form an underground fight club...",
+    popularity: 25.5,
+    voteAverage: 8.8,
+    recommendationScore: 0.82
+  },
+  {
+    tmdbId: 155,
+    title: "The Dark Knight",
+    year: 2008,
+    genres: ["Action", "Crime", "Drama"],
+    director: "Christopher Nolan",
+    cast: ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+    posterPath: "/1hnjzqy-shall.jpg",
+    overview: "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham...",
+    popularity: 65.0,
+    voteAverage: 9.0,
+    recommendationScore: 0.78
+  },
+  {
+    tmdbId: 278,
+    title: "The Shawshank Redemption",
+    year: 1994,
+    genres: ["Drama"],
+    director: "Frank Darabont",
+    cast: ["Tim Robbins", "Morgan Freeman"],
+    posterPath: "/q6y0Go1tsGEsmtFSoWTHnARRdO.jpg",
+    overview: "Two imprisoned men bond over a number of years, finding solace and eventual redemption...",
+    popularity: 55.0,
+    voteAverage: 9.3,
+    recommendationScore: 0.75
+  },
+  {
+    tmdbId: 680,
+    title: "Pulp Fiction",
+    year: 1994,
+    genres: ["Crime", "Drama"],
+    director: "Quentin Tarantino",
+    cast: ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+    posterPath: "/vQWk5YJKOA5mL6p98kchMB7p3KD.jpg",
+    overview: "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner robbers...",
+    popularity: 50.5,
+    voteAverage: 8.9,
+    recommendationScore: 0.72
+  },
+  {
+    tmdbId: 289,
+    title: "Forrest Gump",
+    year: 1994,
+    genres: ["Drama", "Romance"],
+    director: "Robert Zemeckis",
+    cast: ["Tom Hanks", "Gary Sinise", "Sally Field"],
+    posterPath: "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    overview: "The presidencies of Kennedy and Johnson, the Vietnam War, and the Watergate scandal unfold...",
+    popularity: 48.0,
+    voteAverage: 8.8,
+    recommendationScore: 0.70
+  }
+];

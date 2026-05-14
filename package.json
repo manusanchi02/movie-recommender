@@ -1,0 +1,21 @@
+{
+  "name": "movie-recommender",
+  "version": "1.0.0",
+  "description": "Film recommendation system based on Letterboxd ratings",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext .js,.vue"
+  },
+  "dependencies": {
+    "pinia": "^2.1.0",
+    "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "terser": "^5.47.1",
+    "vite": "^5.0.0"
+  }
+}

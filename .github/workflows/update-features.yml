@@ -1,0 +1,48 @@
+name: Update Movie Features
+
+on:
+  schedule:
+    # Esegui ogni giorno alle 2:00 AM UTC
+    - cron: '0 2 * * *'
+  
+  # Permetti di eseguire manualmente dal GitHub UI
+  workflow_dispatch
+
+jobs:
+  update-features:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      
+      - name: Install dependencies
+        run: |
+          npm install
+          pip install requests python-dotenv
+      
+      - name: Run feature extractor
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          LETTERBOXD_USERNAME: ${{ secrets.LETTERBOXD_USERNAME }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: |
+          python feature_extractor.py
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/myMovieFeatures.json
+          git commit -m "Update movie features $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push

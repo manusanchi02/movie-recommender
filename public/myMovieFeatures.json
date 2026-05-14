@@ -1,0 +1,7594 @@
+[
+  {
+    "name": "Magnolia",
+    "year": 1999,
+    "rating": 3.0,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Paul Thomas Anderson",
+    "cast": [
+      "Tom Cruise",
+      "Philip Baker Hall",
+      "Philip Seymour Hoffman",
+      "Julianne Moore",
+      "William H. Macy"
+    ]
+  },
+  {
+    "name": "Interstellar",
+    "year": 2014,
+    "rating": 5.0,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Michael Caine",
+      "Jessica Chastain",
+      "Casey Affleck"
+    ]
+  },
+  {
+    "name": "Pulp Fiction",
+    "year": 1994,
+    "rating": 5.0,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Comedy"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis",
+      "Ving Rhames"
+    ]
+  },
+  {
+    "name": "The Truman Show",
+    "year": 1998,
+    "rating": 4.0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Peter Weir",
+    "cast": [
+      "Jim Carrey",
+      "Laura Linney",
+      "Noah Emmerich",
+      "Natascha McElhone",
+      "Holland Taylor"
+    ]
+  },
+  {
+    "name": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "rating": 5.0,
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Michel Gondry",
+    "cast": [
+      "Jim Carrey",
+      "Kate Winslet",
+      "Kirsten Dunst",
+      "Mark Ruffalo",
+      "Elijah Wood"
+    ]
+  },
+  {
+    "name": "Inception",
+    "year": 2010,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Ken Watanabe",
+      "Tom Hardy",
+      "Elliot Page"
+    ]
+  },
+  {
+    "name": "Knives Out",
+    "year": 2019,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "director": "Rian Johnson",
+    "cast": [
+      "Daniel Craig",
+      "Chris Evans",
+      "Ana de Armas",
+      "Jamie Lee Curtis",
+      "Michael Shannon"
+    ]
+  },
+  {
+    "name": "The Wolf of Wall Street",
+    "year": 2013,
+    "rating": 4.0,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Comedy"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Jonah Hill",
+      "Margot Robbie",
+      "Matthew McConaughey",
+      "Kyle Chandler"
+    ]
+  },
+  {
+    "name": "Forrest Gump",
+    "year": 1994,
+    "rating": 5.0,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field",
+      "Mykelti Williamson"
+    ]
+  },
+  {
+    "name": "Call Me by Your Name",
+    "year": 2017,
+    "rating": 5.0,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "director": "Luca Guadagnino",
+    "cast": [
+      "Armie Hammer",
+      "Timothée Chalamet",
+      "Michael Stuhlbarg",
+      "Amira Casar",
+      "Esther Garrel"
+    ]
+  },
+  {
+    "name": "Ratatouille",
+    "year": 2007,
+    "rating": 4.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Brad Bird",
+    "cast": [
+      "Patton Oswalt",
+      "Ian Holm",
+      "Lou Romano",
+      "Brian Dennehy",
+      "Peter Sohn"
+    ]
+  },
+  {
+    "name": "Django Unchained",
+    "year": 2012,
+    "rating": 4.0,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio",
+      "Kerry Washington",
+      "Samuel L. Jackson"
+    ]
+  },
+  {
+    "name": "The Matrix",
+    "year": 1999,
+    "rating": 5.0,
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "director": "Lana Wachowski",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving",
+      "Gloria Foster"
+    ]
+  },
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "rating": 5.0,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Sean Astin",
+      "Ian Holm"
+    ]
+  },
+  {
+    "name": "Inside Out",
+    "year": 2015,
+    "rating": 3.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Drama",
+      "Comedy"
+    ],
+    "director": "Pete Docter",
+    "cast": [
+      "Amy Poehler",
+      "Phyllis Smith",
+      "Richard Kind",
+      "Bill Hader",
+      "Lewis Black"
+    ]
+  },
+  {
+    "name": "Conclave",
+    "year": 2024,
+    "rating": 3.0,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Edward Berger",
+    "cast": [
+      "Ralph Fiennes",
+      "Stanley Tucci",
+      "John Lithgow",
+      "Isabella Rossellini",
+      "Lucian Msamati"
+    ]
+  },
+  {
+    "name": "Mean Girls",
+    "year": 2004,
+    "rating": 4.0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "director": "Mark Waters",
+    "cast": [
+      "Lindsay Lohan",
+      "Rachel McAdams",
+      "Lizzy Caplan",
+      "Lacey Chabert",
+      "Amanda Seyfried"
+    ]
+  },
+  {
+    "name": "Little Miss Sunshine",
+    "year": 2006,
+    "rating": 4.0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Jonathan Dayton",
+    "cast": [
+      "Greg Kinnear",
+      "Toni Collette",
+      "Steve Carell",
+      "Paul Dano",
+      "Abigail Breslin"
+    ]
+  },
+  {
+    "name": "The Hunger Games",
+    "year": 2012,
+    "rating": 4.0,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "director": "Gary Ross",
+    "cast": [
+      "Jennifer Lawrence",
+      "Josh Hutcherson",
+      "Liam Hemsworth",
+      "Woody Harrelson",
+      "Elizabeth Banks"
+    ]
+  },
+  {
+    "name": "Harry Potter and the Prisoner of Azkaban",
+    "year": 2004,
+    "rating": 5.0,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Alfonso Cuarón",
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Robbie Coltrane",
+      "Michael Gambon"
+    ]
+  },
+  {
+    "name": "The Devil Wears Prada",
+    "year": 2006,
+    "rating": 4.0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "director": "David Frankel",
+    "cast": [
+      "Meryl Streep",
+      "Anne Hathaway",
+      "Emily Blunt",
+      "Stanley Tucci",
+      "Simon Baker"
+    ]
+  },
+  {
+    "name": "Up",
+    "year": 2009,
+    "rating": 3.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure"
+    ],
+    "director": "Pete Docter",
+    "cast": [
+      "Ed Asner",
+      "Christopher Plummer",
+      "Jordan Nagai",
+      "Bob Peterson",
+      "Delroy Lindo"
+    ]
+  },
+  {
+    "name": "Harry Potter and the Philosopher's Stone",
+    "year": 2001,
+    "rating": 5.0,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Chris Columbus",
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Richard Harris",
+      "Tom Felton"
+    ]
+  },
+  {
+    "name": "Back to the Future",
+    "year": 1985,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Crispin Glover",
+      "Lea Thompson",
+      "Claudia Wells"
+    ]
+  },
+  {
+    "name": "Don't Look Up",
+    "year": 2021,
+    "rating": 4.0,
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Drama"
+    ],
+    "director": "Adam McKay",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Jennifer Lawrence",
+      "Meryl Streep",
+      "Cate Blanchett",
+      "Rob Morgan"
+    ]
+  },
+  {
+    "name": "Shrek",
+    "year": 2001,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Fantasy",
+      "Adventure",
+      "Family"
+    ],
+    "director": "Andrew Adamson",
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "John Lithgow",
+      "Vincent Cassel"
+    ]
+  },
+  {
+    "name": "Avatar",
+    "year": 2009,
+    "rating": 5.0,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "director": "James Cameron",
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldaña",
+      "Sigourney Weaver",
+      "Stephen Lang",
+      "Michelle Rodriguez"
+    ]
+  },
+  {
+    "name": "Avatar: The Way of Water",
+    "year": 2022,
+    "rating": 5.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "James Cameron",
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldaña",
+      "Sigourney Weaver",
+      "Stephen Lang",
+      "Kate Winslet"
+    ]
+  },
+  {
+    "name": "Gladiator",
+    "year": 2000,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Drama",
+      "Adventure"
+    ],
+    "director": "Ridley Scott",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen",
+      "Oliver Reed",
+      "Richard Harris"
+    ]
+  },
+  {
+    "name": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "rating": 5.0,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Sean Astin",
+      "Andy Serkis"
+    ]
+  },
+  {
+    "name": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "rating": 5.0,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Sean Astin",
+      "Andy Serkis"
+    ]
+  },
+  {
+    "name": "Zodiac",
+    "year": 2007,
+    "rating": 4.0,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Jake Gyllenhaal",
+      "Mark Ruffalo",
+      "Anthony Edwards",
+      "Robert Downey Jr.",
+      "Chloë Sevigny"
+    ]
+  },
+  {
+    "name": "Harry Potter and the Goblet of Fire",
+    "year": 2005,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Mike Newell",
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Brendan Gleeson",
+      "Michael Gambon"
+    ]
+  },
+  {
+    "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "year": 2023,
+    "rating": 4.0,
+    "genres": [
+      "Science Fiction",
+      "Action"
+    ],
+    "director": "Francis Lawrence",
+    "cast": [
+      "Tom Blyth",
+      "Rachel Zegler",
+      "Peter Dinklage",
+      "Jason Schwartzman",
+      "Hunter Schafer"
+    ]
+  },
+  {
+    "name": "Schindler's List",
+    "year": 1993,
+    "rating": 5.0,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Liam Neeson",
+      "Ben Kingsley",
+      "Ralph Fiennes",
+      "Caroline Goodall",
+      "Jonathan Sagall"
+    ]
+  },
+  {
+    "name": "Jurassic World Rebirth",
+    "year": 2025,
+    "rating": 3.0,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "director": "Gareth Edwards",
+    "cast": [
+      "Scarlett Johansson",
+      "Mahershala Ali",
+      "Jonathan Bailey",
+      "Rupert Friend",
+      "Manuel Garcia-Rulfo"
+    ]
+  },
+  {
+    "name": "The Pianist",
+    "year": 2002,
+    "rating": 4.0,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "director": "Roman Polanski",
+    "cast": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Frank Finlay",
+      "Maureen Lipman",
+      "Emilia Fox"
+    ]
+  },
+  {
+    "name": "Bee Movie",
+    "year": 2007,
+    "rating": 4.0,
+    "genres": [
+      "Family",
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Simon J. Smith",
+    "cast": [
+      "Jerry Seinfeld",
+      "Renée Zellweger",
+      "Matthew Broderick",
+      "Patrick Warburton",
+      "John Goodman"
+    ]
+  },
+  {
+    "name": "Big Hero 6",
+    "year": 2014,
+    "rating": 3.0,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Animation",
+      "Action",
+      "Comedy"
+    ],
+    "director": "Chris Williams",
+    "cast": [
+      "Scott Adsit",
+      "Ryan Potter",
+      "Daniel Henney",
+      "T.J. Miller",
+      "Jamie Chung"
+    ]
+  },
+  {
+    "name": "Bolt",
+    "year": 2008,
+    "rating": 2.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Chris Williams",
+    "cast": [
+      "John Travolta",
+      "Miley Cyrus",
+      "Susie Essman",
+      "Mark Walton",
+      "Malcolm McDowell"
+    ]
+  },
+  {
+    "name": "Brave",
+    "year": 2012,
+    "rating": 3.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Adventure"
+    ],
+    "director": "Brenda Chapman",
+    "cast": [
+      "Kelly Macdonald",
+      "Emma Thompson",
+      "Billy Connolly",
+      "Julie Walters",
+      "Robbie Coltrane"
+    ]
+  },
+  {
+    "name": "Cars",
+    "year": 2006,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "director": "John Lasseter",
+    "cast": [
+      "Owen Wilson",
+      "Paul Newman",
+      "Bonnie Hunt",
+      "Larry the Cable Guy",
+      "Cheech Marin"
+    ]
+  },
+  {
+    "name": "Cars 2",
+    "year": 2011,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "John Lasseter",
+    "cast": [
+      "Larry the Cable Guy",
+      "Owen Wilson",
+      "Michael Caine",
+      "Emily Mortimer",
+      "Eddie Izzard"
+    ]
+  },
+  {
+    "name": "Cars 3",
+    "year": 2017,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "director": "Brian Fee",
+    "cast": [
+      "Owen Wilson",
+      "Cristela Alonzo",
+      "Chris Cooper",
+      "Nathan Fillion",
+      "Larry the Cable Guy"
+    ]
+  },
+  {
+    "name": "Cloudy with a Chance of Meatballs",
+    "year": 2009,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Phil Lord",
+    "cast": [
+      "Bill Hader",
+      "Anna Faris",
+      "James Caan",
+      "Andy Samberg",
+      "Bruce Campbell"
+    ]
+  },
+  {
+    "name": "Cloudy with a Chance of Meatballs 2",
+    "year": 2013,
+    "rating": 4.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy"
+    ],
+    "director": "Cody Cameron",
+    "cast": [
+      "Bill Hader",
+      "Anna Faris",
+      "James Caan",
+      "Will Forte",
+      "Andy Samberg"
+    ]
+  },
+  {
+    "name": "The Croods",
+    "year": 2013,
+    "rating": 2.0,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Comedy"
+    ],
+    "director": "Kirk DeMicco",
+    "cast": [
+      "Nicolas Cage",
+      "Emma Stone",
+      "Ryan Reynolds",
+      "Catherine Keener",
+      "Cloris Leachman"
+    ]
+  },
+  {
+    "name": "Despicable Me",
+    "year": 2010,
+    "rating": 4.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Crime",
+      "Family",
+      "Science Fiction"
+    ],
+    "director": "Pierre Coffin",
+    "cast": [
+      "Steve Carell",
+      "Jason Segel",
+      "Miranda Cosgrove",
+      "Dana Gaier",
+      "Elsie Fisher"
+    ]
+  },
+  {
+    "name": "Despicable Me 2",
+    "year": 2013,
+    "rating": 3.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Pierre Coffin",
+    "cast": [
+      "Steve Carell",
+      "Kristen Wiig",
+      "Benjamin Bratt",
+      "Miranda Cosgrove",
+      "Dana Gaier"
+    ]
+  },
+  {
+    "name": "The Emperor's New Groove",
+    "year": 2000,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Mark Dindal",
+    "cast": [
+      "David Spade",
+      "John Goodman",
+      "Eartha Kitt",
+      "Patrick Warburton",
+      "Wendie Malick"
+    ]
+  },
+  {
+    "name": "Finding Nemo",
+    "year": 2003,
+    "rating": 4.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure"
+    ],
+    "director": "Andrew Stanton",
+    "cast": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould",
+      "Willem Dafoe",
+      "Geoffrey Rush"
+    ]
+  },
+  {
+    "name": "Finding Dory",
+    "year": 2016,
+    "rating": 3.0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "director": "Andrew Stanton",
+    "cast": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Ed O'Neill",
+      "Hayden Rolence",
+      "Diane Keaton"
+    ]
+  },
+  {
+    "name": "Frozen",
+    "year": 2013,
+    "rating": 2.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Chris Buck",
+    "cast": [
+      "Idina Menzel",
+      "Kristen Bell",
+      "Jonathan Groff",
+      "Josh Gad",
+      "Livvy Stubenrauch"
+    ]
+  },
+  {
+    "name": "Horton Hears a Who!",
+    "year": 2008,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Steve Martino",
+    "cast": [
+      "Jim Carrey",
+      "Steve Carell",
+      "Carol Burnett",
+      "Will Arnett",
+      "Seth Rogen"
+    ]
+  },
+  {
+    "name": "Hotel Transylvania",
+    "year": 2012,
+    "rating": 4.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Genndy Tartakovsky",
+    "cast": [
+      "Adam Sandler",
+      "Andy Samberg",
+      "Selena Gomez",
+      "Kevin James",
+      "Fran Drescher"
+    ]
+  },
+  {
+    "name": "How to Train Your Dragon",
+    "year": 2010,
+    "rating": 3.0,
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "director": "Dean DeBlois",
+    "cast": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "Craig Ferguson",
+      "America Ferrera",
+      "Jonah Hill"
+    ]
+  },
+  {
+    "name": "Ice Age",
+    "year": 2002,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure"
+    ],
+    "director": "Chris Wedge",
+    "cast": [
+      "Ray Romano",
+      "John Leguizamo",
+      "Denis Leary",
+      "Goran Višnjić",
+      "Jack Black"
+    ]
+  },
+  {
+    "name": "The Ice Age Adventures of Buck Wild",
+    "year": 2022,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure"
+    ],
+    "director": "John C. Donkin",
+    "cast": [
+      "Simon Pegg",
+      "Vincent Tong",
+      "Aaron Harris",
+      "Utkarsh Ambudkar",
+      "Justina Machado"
+    ]
+  },
+  {
+    "name": "Ice Age: Continental Drift",
+    "year": 2012,
+    "rating": 4.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Adventure",
+      "Family"
+    ],
+    "director": "Mike Thurmeier",
+    "cast": [
+      "Ray Romano",
+      "John Leguizamo",
+      "Denis Leary",
+      "Seann William Scott",
+      "Josh Peck"
+    ]
+  },
+  {
+    "name": "Ice Age: Dawn of the Dinosaurs",
+    "year": 2009,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure"
+    ],
+    "director": "Carlos Saldanha",
+    "cast": [
+      "Ray Romano",
+      "John Leguizamo",
+      "Denis Leary",
+      "Queen Latifah",
+      "Simon Pegg"
+    ]
+  },
+  {
+    "name": "Ice Age: The Meltdown",
+    "year": 2006,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure"
+    ],
+    "director": "Carlos Saldanha",
+    "cast": [
+      "Ray Romano",
+      "John Leguizamo",
+      "Denis Leary",
+      "Queen Latifah",
+      "Seann William Scott"
+    ]
+  },
+  {
+    "name": "The Incredibles",
+    "year": 2004,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "director": "Brad Bird",
+    "cast": [
+      "Craig T. Nelson",
+      "Holly Hunter",
+      "Sarah Vowell",
+      "Spencer Fox",
+      "Jason Lee"
+    ]
+  },
+  {
+    "name": "Kung Fu Panda",
+    "year": 2008,
+    "rating": 5.0,
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Mark Osborne",
+    "cast": [
+      "Jack Black",
+      "Dustin Hoffman",
+      "Angelina Jolie",
+      "Ian McShane",
+      "Seth Rogen"
+    ]
+  },
+  {
+    "name": "Kung Fu Panda 2",
+    "year": 2011,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Action"
+    ],
+    "director": "Jennifer Yuh Nelson",
+    "cast": [
+      "Jack Black",
+      "Angelina Jolie",
+      "Dustin Hoffman",
+      "Gary Oldman",
+      "Jackie Chan"
+    ]
+  },
+  {
+    "name": "Kung Fu Panda 3",
+    "year": 2016,
+    "rating": 3.0,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Jennifer Yuh Nelson",
+    "cast": [
+      "Jack Black",
+      "Bryan Cranston",
+      "Dustin Hoffman",
+      "Angelina Jolie",
+      "J.K. Simmons"
+    ]
+  },
+  {
+    "name": "Lilo & Stitch",
+    "year": 2002,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "director": "Chris Sanders",
+    "cast": [
+      "Daveigh Chase",
+      "Chris Sanders",
+      "Tia Carrere",
+      "David Ogden Stiers",
+      "Kevin McDonald"
+    ]
+  },
+  {
+    "name": "The Lion King",
+    "year": 1994,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Drama"
+    ],
+    "director": "Roger Allers",
+    "cast": [
+      "Matthew Broderick",
+      "Moira Kelly",
+      "Nathan Lane",
+      "Ernie Sabella",
+      "James Earl Jones"
+    ]
+  },
+  {
+    "name": "The Lion King 1½",
+    "year": 2004,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Bradley Raymond",
+    "cast": [
+      "Nathan Lane",
+      "Ernie Sabella",
+      "Julie Kavner",
+      "Jerry Stiller",
+      "Matthew Broderick"
+    ]
+  },
+  {
+    "name": "The Lion King II: Simba's Pride",
+    "year": 1998,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "director": "Darrell Rooney",
+    "cast": [
+      "Matthew Broderick",
+      "Neve Campbell",
+      "Jason Marsden",
+      "Nathan Lane",
+      "Ernie Sabella"
+    ]
+  },
+  {
+    "name": "The Little Mermaid",
+    "year": 1989,
+    "rating": 3.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "John Musker",
+    "cast": [
+      "Jodi Benson",
+      "Samuel E. Wright",
+      "Pat Carroll",
+      "Christopher Daniel Barnes",
+      "Kenneth Mars"
+    ]
+  },
+  {
+    "name": "Madagascar",
+    "year": 2005,
+    "rating": 5.0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Eric Darnell",
+    "cast": [
+      "Ben Stiller",
+      "Chris Rock",
+      "David Schwimmer",
+      "Jada Pinkett Smith",
+      "Sacha Baron Cohen"
+    ]
+  },
+  {
+    "name": "Madagascar 3: Europe's Most Wanted",
+    "year": 2012,
+    "rating": 3.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure"
+    ],
+    "director": "Eric Darnell",
+    "cast": [
+      "Ben Stiller",
+      "Chris Rock",
+      "David Schwimmer",
+      "Jada Pinkett Smith",
+      "Frances McDormand"
+    ]
+  },
+  {
+    "name": "Madagascar: Escape 2 Africa",
+    "year": 2008,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Eric Darnell",
+    "cast": [
+      "Ben Stiller",
+      "Chris Rock",
+      "David Schwimmer",
+      "Jada Pinkett Smith",
+      "Sacha Baron Cohen"
+    ]
+  },
+  {
+    "name": "Minions",
+    "year": 2015,
+    "rating": 4.0,
+    "genres": [
+      "Family",
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Kyle Balda",
+    "cast": [
+      "Sandra Bullock",
+      "Jon Hamm",
+      "Michael Keaton",
+      "Allison Janney",
+      "Steve Coogan"
+    ]
+  },
+  {
+    "name": "Rango",
+    "year": 2011,
+    "rating": 4.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Western",
+      "Adventure"
+    ],
+    "director": "Gore Verbinski",
+    "cast": [
+      "Johnny Depp",
+      "Isla Fisher",
+      "Ned Beatty",
+      "Bill Nighy",
+      "Abigail Breslin"
+    ]
+  },
+  {
+    "name": "The Road to El Dorado",
+    "year": 2000,
+    "rating": 4.0,
+    "genres": [
+      "Family",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Fantasy"
+    ],
+    "director": "Bibo Bergeron",
+    "cast": [
+      "Kenneth Branagh",
+      "Kevin Kline",
+      "Rosie Perez",
+      "Armand Assante",
+      "Edward James Olmos"
+    ]
+  },
+  {
+    "name": "Rio",
+    "year": 2011,
+    "rating": 2.0,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Carlos Saldanha",
+    "cast": [
+      "Jesse Eisenberg",
+      "Anne Hathaway",
+      "Leslie Mann",
+      "Jane Lynch",
+      "will.i.am"
+    ]
+  },
+  {
+    "name": "Shark Tale",
+    "year": 2004,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Vicky Jenson",
+    "cast": [
+      "Will Smith",
+      "Robert De Niro",
+      "Renée Zellweger",
+      "Jack Black",
+      "Angelina Jolie"
+    ]
+  },
+  {
+    "name": "Shrek 2",
+    "year": 2004,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "director": "Conrad Vernon",
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "Julie Andrews",
+      "Antonio Banderas"
+    ]
+  },
+  {
+    "name": "Shrek Forever After",
+    "year": 2010,
+    "rating": 5.0,
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Family"
+    ],
+    "director": "Mike Mitchell",
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "Antonio Banderas",
+      "Walt Dohrn"
+    ]
+  },
+  {
+    "name": "Shrek the Third",
+    "year": 2007,
+    "rating": 5.0,
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Chris Miller",
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "Antonio Banderas",
+      "Julie Andrews"
+    ]
+  },
+  {
+    "name": "The Simpsons Movie",
+    "year": 2007,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "David Silverman",
+    "cast": [
+      "Dan Castellaneta",
+      "Julie Kavner",
+      "Nancy Cartwright",
+      "Yeardley Smith",
+      "Hank Azaria"
+    ]
+  },
+  {
+    "name": "Spirit: Stallion of the Cimarron",
+    "year": 2002,
+    "rating": 3.0,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Drama",
+      "Western"
+    ],
+    "director": "Kelly Asbury",
+    "cast": [
+      "Matt Damon",
+      "James Cromwell",
+      "Daniel Studi",
+      "Chopper Bernet",
+      "Jeff LeBeau"
+    ]
+  },
+  {
+    "name": "The Super Mario Bros. Movie",
+    "year": 2023,
+    "rating": 4.0,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Animation"
+    ],
+    "director": "Michael Jelenic",
+    "cast": [
+      "Chris Pratt",
+      "Anya Taylor-Joy",
+      "Charlie Day",
+      "Jack Black",
+      "Keegan-Michael Key"
+    ]
+  },
+  {
+    "name": "Toy Story",
+    "year": 1995,
+    "rating": 5.0,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Animation",
+      "Adventure"
+    ],
+    "director": "John Lasseter",
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles",
+      "Jim Varney",
+      "Wallace Shawn"
+    ]
+  },
+  {
+    "name": "Toy Story 2",
+    "year": 1999,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "John Lasseter",
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Kelsey Grammer",
+      "Don Rickles"
+    ]
+  },
+  {
+    "name": "Toy Story 3",
+    "year": 2010,
+    "rating": 3.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy"
+    ],
+    "director": "Lee Unkrich",
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Don Rickles",
+      "Wallace Shawn"
+    ]
+  },
+  {
+    "name": "Turbo",
+    "year": 2013,
+    "rating": 3.0,
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "director": "David Soren",
+    "cast": [
+      "Ryan Reynolds",
+      "Paul Giamatti",
+      "Michael Peña",
+      "Samuel L. Jackson",
+      "Luis Guzmán"
+    ]
+  },
+  {
+    "name": "Wreck-It Ralph",
+    "year": 2012,
+    "rating": 5.0,
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy",
+      "Adventure"
+    ],
+    "director": "Rich Moore",
+    "cast": [
+      "John C. Reilly",
+      "Sarah Silverman",
+      "Jack McBrayer",
+      "Jane Lynch",
+      "Alan Tudyk"
+    ]
+  },
+  {
+    "name": "A Minecraft Movie",
+    "year": 2025,
+    "rating": 2.0,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Comedy",
+      "Adventure"
+    ],
+    "director": "Jared Hess",
+    "cast": [
+      "Jason Momoa",
+      "Jack Black",
+      "Sebastian Eugene Hansen",
+      "Emma Myers",
+      "Danielle Brooks"
+    ]
+  },
+  {
+    "name": "Alvin and the Chipmunks",
+    "year": 2007,
+    "rating": 4.0,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Animation"
+    ],
+    "director": "Tim Hill",
+    "cast": [
+      "Jason Lee",
+      "David Cross",
+      "Cameron Richardson",
+      "Jane Lynch",
+      "Justin Long"
+    ]
+  },
+  {
+    "name": "Alvin and the Chipmunks: The Squeakquel",
+    "year": 2009,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Animation",
+      "Fantasy",
+      "Music"
+    ],
+    "director": "Betty Thomas",
+    "cast": [
+      "Zachary Levi",
+      "David Cross",
+      "Jason Lee",
+      "Justin Long",
+      "Matthew Gray Gubler"
+    ]
+  },
+  {
+    "name": "Hoodwinked!",
+    "year": 2005,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Crime",
+      "Mystery"
+    ],
+    "director": "Cory Edwards",
+    "cast": [
+      "Anne Hathaway",
+      "Glenn Close",
+      "Patrick Warburton",
+      "Jim Belushi",
+      "David Ogden Stiers"
+    ]
+  },
+  {
+    "name": "Happily N'Ever After",
+    "year": 2006,
+    "rating": 5.0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Paul Bolger",
+    "cast": [
+      "George Carlin",
+      "Andy Dick",
+      "Sarah Michelle Gellar",
+      "Lisa Kaplan",
+      "Michael McShane"
+    ]
+  },
+  {
+    "name": "The Black Cauldron",
+    "year": 1985,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Ted Berman",
+    "cast": [
+      "Grant Bardsley",
+      "Susan Sheridan",
+      "John Byner",
+      "Nigel Hawthorne",
+      "John Hurt"
+    ]
+  },
+  {
+    "name": "Happy Gilmore",
+    "year": 1996,
+    "rating": 3.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Dennis Dugan",
+    "cast": [
+      "Adam Sandler",
+      "Christopher McDonald",
+      "Julie Bowen",
+      "Frances Bay",
+      "Carl Weathers"
+    ]
+  },
+  {
+    "name": "The Intouchables",
+    "year": 2011,
+    "rating": 4.0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "director": "Olivier Nakache",
+    "cast": [
+      "François Cluzet",
+      "Omar Sy",
+      "Anne Le Ny",
+      "Audrey Fleurot",
+      "Joséphine de Meaux"
+    ]
+  },
+  {
+    "name": "The Imitation Game",
+    "year": 2014,
+    "rating": 4.0,
+    "genres": [
+      "History",
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "director": "Morten Tyldum",
+    "cast": [
+      "Benedict Cumberbatch",
+      "Keira Knightley",
+      "Matthew Goode",
+      "Rory Kinnear",
+      "Allen Leech"
+    ]
+  },
+  {
+    "name": "Inglourious Basterds",
+    "year": 2009,
+    "rating": 4.0,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Brad Pitt",
+      "Mélanie Laurent",
+      "Christoph Waltz",
+      "Eli Roth",
+      "Michael Fassbender"
+    ]
+  },
+  {
+    "name": "Oldboy",
+    "year": 2003,
+    "rating": 3.0,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Mystery",
+      "Action"
+    ],
+    "director": "Park Chan-wook",
+    "cast": [
+      "최민식",
+      "유지태",
+      "강혜정",
+      "김병옥",
+      "지대한"
+    ]
+  },
+  {
+    "name": "Bianco, rosso e Verdone",
+    "year": 1981,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Carlo Verdone",
+    "cast": [
+      "Carlo Verdone",
+      "Irina Sanpiter",
+      "Elena Fabrizi",
+      "Angelo Infanti",
+      "Milena Vukotić"
+    ]
+  },
+  {
+    "name": "Influencer",
+    "year": 2022,
+    "rating": 1.0,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "director": "Kurtis David Harder",
+    "cast": [
+      "Cassandra Naud",
+      "Emily Tennant",
+      "Rory J. Saper",
+      "Sara Canning",
+      "Paul Spurrier"
+    ]
+  },
+  {
+    "name": "Jaws",
+    "year": 1975,
+    "rating": 4.0,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Adventure"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Roy Scheider",
+      "Robert Shaw",
+      "Richard Dreyfuss",
+      "Lorraine Gary",
+      "Murray Hamilton"
+    ]
+  },
+  {
+    "name": "Fantasy Football Ruined Our Lives",
+    "year": 2025,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Alessio Maria Federici",
+    "cast": [
+      "Giacomo Ferrara",
+      "Silvia D'Amico",
+      "Enrico Borello",
+      "Francesco Russo",
+      "Antonio Bannò"
+    ]
+  },
+  {
+    "name": "Murder by Numbers",
+    "year": 2002,
+    "rating": 3.0,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Barbet Schroeder",
+    "cast": [
+      "Sandra Bullock",
+      "Ben Chaplin",
+      "Ryan Gosling",
+      "Michael Pitt",
+      "Agnes Bruckner"
+    ]
+  },
+  {
+    "name": "The Pelican Brief",
+    "year": 1993,
+    "rating": 5.0,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Alan J. Pakula",
+    "cast": [
+      "Julia Roberts",
+      "Denzel Washington",
+      "Sam Shepard",
+      "John Heard",
+      "Tony Goldwyn"
+    ]
+  },
+  {
+    "name": "Along Came a Spider",
+    "year": 2001,
+    "rating": 4.0,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller",
+      "Action"
+    ],
+    "director": "Lee Tamahori",
+    "cast": [
+      "Morgan Freeman",
+      "Monica Potter",
+      "Michael Wincott",
+      "Dylan Baker",
+      "Mika Boorem"
+    ]
+  },
+  {
+    "name": "The Intern",
+    "year": 2015,
+    "rating": 3.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Nancy Meyers",
+    "cast": [
+      "Robert De Niro",
+      "Anne Hathaway",
+      "Rene Russo",
+      "Anders Holm",
+      "JoJo Kushner"
+    ]
+  },
+  {
+    "name": "Basic Instinct",
+    "year": 1992,
+    "rating": 3.0,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "director": "Paul Verhoeven",
+    "cast": [
+      "Michael Douglas",
+      "Sharon Stone",
+      "George Dzundza",
+      "Jeanne Tripplehorn",
+      "Denis Arndt"
+    ]
+  },
+  {
+    "name": "Copycat",
+    "year": 1995,
+    "rating": 4.0,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Mystery"
+    ],
+    "director": "Jon Amiel",
+    "cast": [
+      "Sigourney Weaver",
+      "Holly Hunter",
+      "Dermot Mulroney",
+      "William McNamara",
+      "Harry Connick Jr."
+    ]
+  },
+  {
+    "name": "American Beauty",
+    "year": 1999,
+    "rating": 5.0,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Sam Mendes",
+    "cast": [
+      "Kevin Spacey",
+      "Annette Bening",
+      "Thora Birch",
+      "Wes Bentley",
+      "Mena Suvari"
+    ]
+  },
+  {
+    "name": "The Usual Suspects",
+    "year": 1995,
+    "rating": 4.0,
+    "genres": [
+      "Drama",
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Bryan Singer",
+    "cast": [
+      "Stephen Baldwin",
+      "Gabriel Byrne",
+      "Benicio Del Toro",
+      "Kevin Pollak",
+      "Kevin Spacey"
+    ]
+  },
+  {
+    "name": "The Negotiator",
+    "year": 1998,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "F. Gary Gray",
+    "cast": [
+      "Samuel L. Jackson",
+      "Kevin Spacey",
+      "David Morse",
+      "Ron Rifkin",
+      "John Spencer"
+    ]
+  },
+  {
+    "name": "21",
+    "year": 2008,
+    "rating": 4.0,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "director": "Robert Luketic",
+    "cast": [
+      "Jim Sturgess",
+      "Kevin Spacey",
+      "Kate Bosworth",
+      "Aaron Yoo",
+      "Liza Lapira"
+    ]
+  },
+  {
+    "name": "Outbreak",
+    "year": 1995,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Drama",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "director": "Wolfgang Petersen",
+    "cast": [
+      "Dustin Hoffman",
+      "Rene Russo",
+      "Morgan Freeman",
+      "Kevin Spacey",
+      "Cuba Gooding Jr."
+    ]
+  },
+  {
+    "name": "I Can Quit Whenever I Want",
+    "year": 2014,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Sydney Sibilia",
+    "cast": [
+      "Edoardo Leo",
+      "Valeria Solarino",
+      "Valerio Aprea",
+      "Paolo Calabresi",
+      "Stefano Fresi"
+    ]
+  },
+  {
+    "name": "I Can Quit Whenever I Want 2: Masterclass",
+    "year": 2017,
+    "rating": 3.0,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Sydney Sibilia",
+    "cast": [
+      "Edoardo Leo",
+      "Valerio Aprea",
+      "Stefano Fresi",
+      "Paolo Calabresi",
+      "Libero De Rienzo"
+    ]
+  },
+  {
+    "name": "I Can Quit Whenever I Want 3: Ad Honorem",
+    "year": 2017,
+    "rating": 3.0,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "director": "Sydney Sibilia",
+    "cast": [
+      "Edoardo Leo",
+      "Valerio Aprea",
+      "Paolo Calabresi",
+      "Libero De Rienzo",
+      "Stefano Fresi"
+    ]
+  },
+  {
+    "name": "Dunkirk",
+    "year": 2017,
+    "rating": 3.0,
+    "genres": [
+      "War",
+      "Action",
+      "Drama"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Fionn Whitehead",
+      "Tom Hardy",
+      "Mark Rylance",
+      "Kenneth Branagh",
+      "Cillian Murphy"
+    ]
+  },
+  {
+    "name": "Arrival",
+    "year": 2016,
+    "rating": 3.5,
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Mystery"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Amy Adams",
+      "Jeremy Renner",
+      "Forest Whitaker",
+      "Michael Stuhlbarg",
+      "Mark O'Brien"
+    ]
+  },
+  {
+    "name": "Geostorm",
+    "year": 2017,
+    "rating": 3.5,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "director": "Dean Devlin",
+    "cast": [
+      "Gerard Butler",
+      "Alexandra Maria Lara",
+      "Jim Sturgess",
+      "Abbie Cornish",
+      "Ed Harris"
+    ]
+  },
+  {
+    "name": "A Boss in the Living Room",
+    "year": 2014,
+    "rating": 2.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Luca Miniero",
+    "cast": [
+      "Paola Cortellesi",
+      "Rocco Papaleo",
+      "Luca Argentero",
+      "Angela Finocchiaro",
+      "Ale"
+    ]
+  },
+  {
+    "name": "The Terminal",
+    "year": 2004,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Tom Hanks",
+      "Catherine Zeta-Jones",
+      "Stanley Tucci",
+      "Chi McBride",
+      "Diego Luna"
+    ]
+  },
+  {
+    "name": "Coraline",
+    "year": 2009,
+    "rating": 4.5,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Henry Selick",
+    "cast": [
+      "Dakota Fanning",
+      "Teri Hatcher",
+      "Jennifer Saunders",
+      "Dawn French",
+      "Keith David"
+    ]
+  },
+  {
+    "name": "Donnie Darko",
+    "year": 2001,
+    "rating": 4.5,
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Richard Kelly",
+    "cast": [
+      "Jake Gyllenhaal",
+      "Jena Malone",
+      "James Duval",
+      "Drew Barrymore",
+      "Beth Grant"
+    ]
+  },
+  {
+    "name": "Mamma Mia!",
+    "year": 2008,
+    "rating": 2.0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Phyllida Lloyd",
+    "cast": [
+      "Amanda Seyfried",
+      "Meryl Streep",
+      "Pierce Brosnan",
+      "Colin Firth",
+      "Stellan Skarsgård"
+    ]
+  },
+  {
+    "name": "Jurassic Park",
+    "year": 1993,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum",
+      "Richard Attenborough",
+      "Bob Peck"
+    ]
+  },
+  {
+    "name": "How to Lose a Guy in 10 Days",
+    "year": 2003,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Donald Petrie",
+    "cast": [
+      "Kate Hudson",
+      "Matthew McConaughey",
+      "Kathryn Hahn",
+      "Annie Parisse",
+      "Adam Goldberg"
+    ]
+  },
+  {
+    "name": "Blade Runner 2049",
+    "year": 2017,
+    "rating": 1.5,
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Ryan Gosling",
+      "Harrison Ford",
+      "Ana de Armas",
+      "Dave Bautista",
+      "Robin Wright"
+    ]
+  },
+  {
+    "name": "Trainspotting",
+    "year": 1996,
+    "rating": 4.5,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "director": "Danny Boyle",
+    "cast": [
+      "Ewan McGregor",
+      "Ewen Bremner",
+      "Jonny Lee Miller",
+      "Kevin McKidd",
+      "Robert Carlyle"
+    ]
+  },
+  {
+    "name": "Oppenheimer",
+    "year": 2023,
+    "rating": 3.5,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Matt Damon",
+      "Robert Downey Jr.",
+      "Florence Pugh"
+    ]
+  },
+  {
+    "name": "Stand by Me",
+    "year": 1986,
+    "rating": 4.0,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Rob Reiner",
+    "cast": [
+      "Wil Wheaton",
+      "River Phoenix",
+      "Corey Feldman",
+      "Jerry O'Connell",
+      "Kiefer Sutherland"
+    ]
+  },
+  {
+    "name": "American Psycho",
+    "year": 2000,
+    "rating": 3.5,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Crime"
+    ],
+    "director": "Mary Harron",
+    "cast": [
+      "Christian Bale",
+      "Justin Theroux",
+      "Josh Lucas",
+      "Bill Sage",
+      "Chloë Sevigny"
+    ]
+  },
+  {
+    "name": "Juno",
+    "year": 2007,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Jason Reitman",
+    "cast": [
+      "Elliot Page",
+      "Michael Cera",
+      "Jennifer Garner",
+      "Jason Bateman",
+      "J.K. Simmons"
+    ]
+  },
+  {
+    "name": "Star Wars",
+    "year": 1977,
+    "rating": 3.5,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "director": "George Lucas",
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Peter Cushing",
+      "Alec Guinness"
+    ]
+  },
+  {
+    "name": "The Secret Life of Walter Mitty",
+    "year": 2013,
+    "rating": 4.5,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "director": "Ben Stiller",
+    "cast": [
+      "Ben Stiller",
+      "Kristen Wiig",
+      "Sean Penn",
+      "Shirley MacLaine",
+      "Adam Scott"
+    ]
+  },
+  {
+    "name": "Once Upon a Time... in Hollywood",
+    "year": 2019,
+    "rating": 2.5,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Margot Robbie",
+      "Emile Hirsch",
+      "Margaret Qualley"
+    ]
+  },
+  {
+    "name": "Avengers: Infinity War",
+    "year": 2018,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "director": "Anthony Russo",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Chris Hemsworth",
+      "Josh Brolin",
+      "Mark Ruffalo"
+    ]
+  },
+  {
+    "name": "Notting Hill",
+    "year": 1999,
+    "rating": 5.0,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "director": "Roger Michell",
+    "cast": [
+      "Julia Roberts",
+      "Hugh Grant",
+      "Gina McKee",
+      "Tim McInnerny",
+      "Rhys Ifans"
+    ]
+  },
+  {
+    "name": "Spider-Man 2",
+    "year": 2004,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "Sam Raimi",
+    "cast": [
+      "Tobey Maguire",
+      "Kirsten Dunst",
+      "James Franco",
+      "Alfred Molina",
+      "Rosemary Harris"
+    ]
+  },
+  {
+    "name": "13 Going on 30",
+    "year": 2004,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "director": "Gary Winick",
+    "cast": [
+      "Jennifer Garner",
+      "Mark Ruffalo",
+      "Judy Greer",
+      "Andy Serkis",
+      "Kathy Baker"
+    ]
+  },
+  {
+    "name": "Clueless",
+    "year": 1995,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Amy Heckerling",
+    "cast": [
+      "Alicia Silverstone",
+      "Stacey Dash",
+      "Brittany Murphy",
+      "Paul Rudd",
+      "Donald Faison"
+    ]
+  },
+  {
+    "name": "White Chicks",
+    "year": 2004,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Keenen Ivory Wayans",
+    "cast": [
+      "Shawn Wayans",
+      "Marlon Wayans",
+      "Frankie Faison",
+      "Terry Crews",
+      "Faune Chambers Watkins"
+    ]
+  },
+  {
+    "name": "Saw",
+    "year": 2004,
+    "rating": 3.5,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Crime"
+    ],
+    "director": "James Wan",
+    "cast": [
+      "Tobin Bell",
+      "Cary Elwes",
+      "Leigh Whannell",
+      "Danny Glover",
+      "Monica Potter"
+    ]
+  },
+  {
+    "name": "1917",
+    "year": 2019,
+    "rating": 3.5,
+    "genres": [
+      "War",
+      "History",
+      "Drama"
+    ],
+    "director": "Sam Mendes",
+    "cast": [
+      "George MacKay",
+      "Dean-Charles Chapman",
+      "Mark Strong",
+      "Andrew Scott",
+      "Richard Madden"
+    ]
+  },
+  {
+    "name": "Life of Pi",
+    "year": 2012,
+    "rating": 3.5,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "director": "李安",
+    "cast": [
+      "Suraj Sharma",
+      "Irrfan Khan",
+      "Ayush Tandon",
+      "Gautam Belur",
+      "Adil Hussain"
+    ]
+  },
+  {
+    "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "year": 2005,
+    "rating": 4.5,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Andrew Adamson",
+    "cast": [
+      "William Moseley",
+      "Anna Popplewell",
+      "Skandar Keynes",
+      "Georgie Henley",
+      "Liam Neeson"
+    ]
+  },
+  {
+    "name": "Basilicata Coast To Coast",
+    "year": 2010,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Rocco Papaleo",
+    "cast": [
+      "Alessandro Gassmann",
+      "Paolo Briguglia",
+      "Max Gazzè",
+      "Rocco Papaleo",
+      "Giovanna Mezzogiorno"
+    ]
+  },
+  {
+    "name": "The Fast and the Furious",
+    "year": 2001,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Rob Cohen",
+    "cast": [
+      "Paul Walker",
+      "Vin Diesel",
+      "Michelle Rodriguez",
+      "Jordana Brewster",
+      "Rick Yune"
+    ]
+  },
+  {
+    "name": "2 Fast 2 Furious",
+    "year": 2003,
+    "rating": 3.5,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": "John Singleton",
+    "cast": [
+      "Paul Walker",
+      "Tyrese Gibson",
+      "Eva Mendes",
+      "Cole Hauser",
+      "Ludacris"
+    ]
+  },
+  {
+    "name": "The Fast and the Furious: Tokyo Drift",
+    "year": 2006,
+    "rating": 3.0,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Justin Lin",
+    "cast": [
+      "Lucas Black",
+      "Nathalie Kelley",
+      "Sung Kang",
+      "Shad Moss",
+      "Brian Tee"
+    ]
+  },
+  {
+    "name": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "rating": 3.5,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Henry Thomas",
+      "Drew Barrymore",
+      "Robert MacNaughton",
+      "Peter Coyote",
+      "Dee Wallace"
+    ]
+  },
+  {
+    "name": "The SpongeBob SquarePants Movie",
+    "year": 2004,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Stephen Hillenburg",
+    "cast": [
+      "Tom Kenny",
+      "Clancy Brown",
+      "Rodger Bumpass",
+      "Bill Fagerbakke",
+      "Mr. Lawrence"
+    ]
+  },
+  {
+    "name": "The Pursuit of Happyness",
+    "year": 2006,
+    "rating": 5.0,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Gabriele Muccino",
+    "cast": [
+      "Will Smith",
+      "Jaden Smith",
+      "Thandiwe Newton",
+      "Brian Howe",
+      "James Karen"
+    ]
+  },
+  {
+    "name": "Love Actually",
+    "year": 2003,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "director": "Richard Curtis",
+    "cast": [
+      "Hugh Grant",
+      "Alan Rickman",
+      "Emma Thompson",
+      "Liam Neeson",
+      "Martine McCutcheon"
+    ]
+  },
+  {
+    "name": "Stuart Little",
+    "year": 1999,
+    "rating": 3.0,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Comedy",
+      "Adventure"
+    ],
+    "director": "Rob Minkoff",
+    "cast": [
+      "Michael J. Fox",
+      "Geena Davis",
+      "Hugh Laurie",
+      "Jonathan Lipnicki",
+      "Nathan Lane"
+    ]
+  },
+  {
+    "name": "The Man from U.N.C.L.E.",
+    "year": 2015,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Action",
+      "Adventure"
+    ],
+    "director": "Guy Ritchie",
+    "cast": [
+      "Henry Cavill",
+      "Armie Hammer",
+      "Alicia Vikander",
+      "Elizabeth Debicki",
+      "Luca Calvani"
+    ]
+  },
+  {
+    "name": "Paddington",
+    "year": 2014,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Family"
+    ],
+    "director": "Paul King",
+    "cast": [
+      "Ben Whishaw",
+      "Hugh Bonneville",
+      "Sally Hawkins",
+      "Madeleine Harris",
+      "Samuel Joslin"
+    ]
+  },
+  {
+    "name": "October Sky",
+    "year": 1999,
+    "rating": 3.5,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "director": "Joe Johnston",
+    "cast": [
+      "Jake Gyllenhaal",
+      "Chris Cooper",
+      "Chris Owen",
+      "Laura Dern",
+      "William Lee Scott"
+    ]
+  },
+  {
+    "name": "The Grand Budapest Hotel",
+    "year": 2014,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Wes Anderson",
+    "cast": [
+      "Ralph Fiennes",
+      "F. Murray Abraham",
+      "Mathieu Amalric",
+      "Adrien Brody",
+      "Willem Dafoe"
+    ]
+  },
+  {
+    "name": "Shutter Island",
+    "year": 2010,
+    "rating": 4.0,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Mystery"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Mark Ruffalo",
+      "Ben Kingsley",
+      "Max von Sydow",
+      "Michelle Williams"
+    ]
+  },
+  {
+    "name": "Monsters, Inc.",
+    "year": 2001,
+    "rating": 3.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Pete Docter",
+    "cast": [
+      "John Goodman",
+      "Billy Crystal",
+      "Mary Gibbs",
+      "Steve Buscemi",
+      "James Coburn"
+    ]
+  },
+  {
+    "name": "Penguins of Madagascar",
+    "year": 2014,
+    "rating": 2.0,
+    "genres": [
+      "Family",
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Simon J. Smith",
+    "cast": [
+      "Tom McGrath",
+      "Chris Miller",
+      "Christopher Knights",
+      "Conrad Vernon",
+      "John Malkovich"
+    ]
+  },
+  {
+    "name": "Cinderella",
+    "year": 1950,
+    "rating": 4.0,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Animation",
+      "Romance"
+    ],
+    "director": "Hamilton Luske",
+    "cast": [
+      "Ilene Woods",
+      "Eleanor Audley",
+      "Verna Felton",
+      "Claire Du Brey",
+      "Rhoda Williams"
+    ]
+  },
+  {
+    "name": "Lady and the Tramp",
+    "year": 1955,
+    "rating": 4.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Romance",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Clyde Geronimi",
+    "cast": [
+      "Barbara Luddy",
+      "Larry Roberts",
+      "Peggy Lee",
+      "Bill Thompson",
+      "Bill Baucom"
+    ]
+  },
+  {
+    "name": "Peter Pan",
+    "year": 1953,
+    "rating": 3.5,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Clyde Geronimi",
+    "cast": [
+      "Bobby Driscoll",
+      "Kathryn Beaumont",
+      "Hans Conried",
+      "Bill Thompson",
+      "Heather Angel"
+    ]
+  },
+  {
+    "name": "The Hunchback of Notre Dame",
+    "year": 1996,
+    "rating": 3.5,
+    "genres": [
+      "Drama",
+      "Animation",
+      "Family"
+    ],
+    "director": "Gary Trousdale",
+    "cast": [
+      "Tom Hulce",
+      "Demi Moore",
+      "Kevin Kline",
+      "Tony Jay",
+      "Charles Kimbrough"
+    ]
+  },
+  {
+    "name": "The Martian",
+    "year": 2015,
+    "rating": 4.5,
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Adventure"
+    ],
+    "director": "Ridley Scott",
+    "cast": [
+      "Matt Damon",
+      "Jessica Chastain",
+      "Kristen Wiig",
+      "Jeff Daniels",
+      "Michael Peña"
+    ]
+  },
+  {
+    "name": "Spaceman",
+    "year": 2024,
+    "rating": 2.0,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Johan Renck",
+    "cast": [
+      "Adam Sandler",
+      "Paul Dano",
+      "Carey Mulligan",
+      "Kunal Nayyar",
+      "Isabella Rossellini"
+    ]
+  },
+  {
+    "name": "50 First Dates",
+    "year": 2004,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Peter Segal",
+    "cast": [
+      "Adam Sandler",
+      "Drew Barrymore",
+      "Rob Schneider",
+      "Sean Astin",
+      "Lusia Strus"
+    ]
+  },
+  {
+    "name": "Grown Ups",
+    "year": 2010,
+    "rating": 5.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Dennis Dugan",
+    "cast": [
+      "Adam Sandler",
+      "Kevin James",
+      "Chris Rock",
+      "David Spade",
+      "Rob Schneider"
+    ]
+  },
+  {
+    "name": "Click",
+    "year": 2006,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "director": "Frank Coraci",
+    "cast": [
+      "Adam Sandler",
+      "Kate Beckinsale",
+      "Christopher Walken",
+      "David Hasselhoff",
+      "Henry Winkler"
+    ]
+  },
+  {
+    "name": "Hustle",
+    "year": 2022,
+    "rating": 4.0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "director": "Jeremiah Zagar",
+    "cast": [
+      "Adam Sandler",
+      "Queen Latifah",
+      "Juancho Hernangómez",
+      "Ben Foster",
+      "Kenny Smith"
+    ]
+  },
+  {
+    "name": "Grown Ups 2",
+    "year": 2013,
+    "rating": 5.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Dennis Dugan",
+    "cast": [
+      "Adam Sandler",
+      "Kevin James",
+      "Chris Rock",
+      "David Spade",
+      "Salma Hayek Pinault"
+    ]
+  },
+  {
+    "name": "Pixels",
+    "year": 2015,
+    "rating": 3.5,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "director": "Chris Columbus",
+    "cast": [
+      "Adam Sandler",
+      "Kevin James",
+      "Michelle Monaghan",
+      "Peter Dinklage",
+      "Josh Gad"
+    ]
+  },
+  {
+    "name": "Big Daddy",
+    "year": 1999,
+    "rating": 4.0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Dennis Dugan",
+    "cast": [
+      "Adam Sandler",
+      "Cole Sprouse",
+      "Dylan Sprouse",
+      "Joey Lauren Adams",
+      "Josh Mostel"
+    ]
+  },
+  {
+    "name": "The Longest Yard",
+    "year": 2005,
+    "rating": 4.5,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Peter Segal",
+    "cast": [
+      "Adam Sandler",
+      "Chris Rock",
+      "James Cromwell",
+      "Nelly",
+      "Michael Irvin"
+    ]
+  },
+  {
+    "name": "The Ridiculous 6",
+    "year": 2015,
+    "rating": 3.5,
+    "genres": [
+      "Western",
+      "Comedy",
+      "Action",
+      "Adventure"
+    ],
+    "director": "Frank Coraci",
+    "cast": [
+      "Adam Sandler",
+      "Terry Crews",
+      "Jorge Garcia",
+      "Taylor Lautner",
+      "Rob Schneider"
+    ]
+  },
+  {
+    "name": "Con Air",
+    "year": 1997,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "director": "Simon West",
+    "cast": [
+      "Nicolas Cage",
+      "John Cusack",
+      "John Malkovich",
+      "Ving Rhames",
+      "Mykelti Williamson"
+    ]
+  },
+  {
+    "name": "The Dictator",
+    "year": 2012,
+    "rating": 3.5,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Larry Charles",
+    "cast": [
+      "Sacha Baron Cohen",
+      "Ben Kingsley",
+      "Anna Faris",
+      "Jason Mantzoukas",
+      "Sayed Badreya"
+    ]
+  },
+  {
+    "name": "The Last Legion",
+    "year": 2007,
+    "rating": 3.5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "War"
+    ],
+    "director": "Doug Lefler",
+    "cast": [
+      "Colin Firth",
+      "Ben Kingsley",
+      "Aishwarya Rai Bachchan",
+      "Peter Mullan",
+      "Kevin McKidd"
+    ]
+  },
+  {
+    "name": "300",
+    "year": 2006,
+    "rating": 3.5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "War"
+    ],
+    "director": "Zack Snyder",
+    "cast": [
+      "Gerard Butler",
+      "Lena Headey",
+      "Dominic West",
+      "David Wenham",
+      "Vincent Regan"
+    ]
+  },
+  {
+    "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "rating": 5.0,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "director": "Gore Verbinski",
+    "cast": [
+      "Johnny Depp",
+      "Geoffrey Rush",
+      "Orlando Bloom",
+      "Keira Knightley",
+      "Jack Davenport"
+    ]
+  },
+  {
+    "name": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": 2006,
+    "rating": 4.5,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "director": "Gore Verbinski",
+    "cast": [
+      "Johnny Depp",
+      "Orlando Bloom",
+      "Keira Knightley",
+      "Jack Davenport",
+      "Bill Nighy"
+    ]
+  },
+  {
+    "name": "Pirates of the Caribbean: At World's End",
+    "year": 2007,
+    "rating": 4.5,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "director": "Gore Verbinski",
+    "cast": [
+      "Johnny Depp",
+      "Geoffrey Rush",
+      "Orlando Bloom",
+      "Keira Knightley",
+      "Jack Davenport"
+    ]
+  },
+  {
+    "name": "Pirates of the Caribbean: On Stranger Tides",
+    "year": 2011,
+    "rating": 3.5,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "director": "Rob Marshall",
+    "cast": [
+      "Johnny Depp",
+      "Penélope Cruz",
+      "Geoffrey Rush",
+      "Ian McShane",
+      "Kevin McNally"
+    ]
+  },
+  {
+    "name": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "year": 2017,
+    "rating": 3.0,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "director": "Joachim Rønning",
+    "cast": [
+      "Johnny Depp",
+      "Javier Bardem",
+      "Geoffrey Rush",
+      "Brenton Thwaites",
+      "Kaya Scodelario"
+    ]
+  },
+  {
+    "name": "Balto",
+    "year": 1995,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "director": "Simon Wells",
+    "cast": [
+      "Kevin Bacon",
+      "Bob Hoskins",
+      "Bridget Fonda",
+      "Jim Cummings",
+      "Phil Collins"
+    ]
+  },
+  {
+    "name": "Snow White and the Seven Dwarfs",
+    "year": 1937,
+    "rating": 3.5,
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Family"
+    ],
+    "director": "David Hand",
+    "cast": [
+      "Adriana Caselotti",
+      "Lucille La Verne",
+      "Harry Stockwell",
+      "Roy Atwell",
+      "Pinto Colvig"
+    ]
+  },
+  {
+    "name": "Dumbo",
+    "year": 1941,
+    "rating": 3.0,
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "director": "Ben Sharpsteen",
+    "cast": [
+      "Edward Brophy",
+      "Margaret Wright",
+      "Verna Felton",
+      "Sarah Selby",
+      "Noreen Gammill"
+    ]
+  },
+  {
+    "name": "Bambi",
+    "year": 1942,
+    "rating": 3.5,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "director": "David Hand",
+    "cast": [
+      "Donnie Dunagan",
+      "Peter Behn",
+      "Stan Alexander",
+      "Cammie King",
+      "Will Wright"
+    ]
+  },
+  {
+    "name": "Pocahontas",
+    "year": 1995,
+    "rating": 3.5,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Romance"
+    ],
+    "director": "Mike Gabriel",
+    "cast": [
+      "Irene Bedard",
+      "Mel Gibson",
+      "David Ogden Stiers",
+      "John Kassir",
+      "Christian Bale"
+    ]
+  },
+  {
+    "name": "The Many Adventures of Winnie the Pooh",
+    "year": 1977,
+    "rating": 4.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure"
+    ],
+    "director": "John Lounsbery",
+    "cast": [
+      "Sterling Holloway",
+      "John Fiedler",
+      "Junius Matthews",
+      "Paul Winchell",
+      "Ralph Wright"
+    ]
+  },
+  {
+    "name": "The Aristocats",
+    "year": 1970,
+    "rating": 4.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure"
+    ],
+    "director": "Wolfgang Reitherman",
+    "cast": [
+      "Phil Harris",
+      "Eva Gabor",
+      "Sterling Holloway",
+      "Scatman Crothers",
+      "Paul Winchell"
+    ]
+  },
+  {
+    "name": "Robin Hood",
+    "year": 1973,
+    "rating": 4.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure"
+    ],
+    "director": "Wolfgang Reitherman",
+    "cast": [
+      "Brian Bedford",
+      "Phil Harris",
+      "Andy Devine",
+      "Monica Evans",
+      "Peter Ustinov"
+    ]
+  },
+  {
+    "name": "The Jungle Book",
+    "year": 1967,
+    "rating": 4.0,
+    "genres": [
+      "Family",
+      "Animation",
+      "Adventure"
+    ],
+    "director": "Wolfgang Reitherman",
+    "cast": [
+      "Bruce Reitherman",
+      "Phil Harris",
+      "Sebastian Cabot",
+      "George Sanders",
+      "Sterling Holloway"
+    ]
+  },
+  {
+    "name": "The Sword in the Stone",
+    "year": 1963,
+    "rating": 4.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Wolfgang Reitherman",
+    "cast": [
+      "Sebastian Cabot",
+      "Karl Swenson",
+      "Junius Matthews",
+      "Martha Wentworth",
+      "Norman Alden"
+    ]
+  },
+  {
+    "name": "Alice in Wonderland",
+    "year": 2010,
+    "rating": 3.5,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Adventure"
+    ],
+    "director": "Tim Burton",
+    "cast": [
+      "Mia Wasikowska",
+      "Johnny Depp",
+      "Anne Hathaway",
+      "Helena Bonham Carter",
+      "Crispin Glover"
+    ]
+  },
+  {
+    "name": "Avengers: Endgame",
+    "year": 2019,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Action"
+    ],
+    "director": "Anthony Russo",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Scarlett Johansson"
+    ]
+  },
+  {
+    "name": "Inside Out 2",
+    "year": 2024,
+    "rating": 3.5,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Kelsey Mann",
+    "cast": [
+      "Amy Poehler",
+      "Maya Hawke",
+      "Kensington Tallman",
+      "Liza Lapira",
+      "Tony Hale"
+    ]
+  },
+  {
+    "name": "Glass Onion",
+    "year": 2022,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "director": "Rian Johnson",
+    "cast": [
+      "Daniel Craig",
+      "Edward Norton",
+      "Janelle Monáe",
+      "Kathryn Hahn",
+      "Leslie Odom Jr."
+    ]
+  },
+  {
+    "name": "Guardians of the Galaxy",
+    "year": 2014,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "director": "James Gunn",
+    "cast": [
+      "Chris Pratt",
+      "Zoe Saldaña",
+      "Dave Bautista",
+      "Vin Diesel",
+      "Bradley Cooper"
+    ]
+  },
+  {
+    "name": "Life",
+    "year": 2017,
+    "rating": 4.0,
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Mystery"
+    ],
+    "director": "Daniel Espinosa",
+    "cast": [
+      "Jake Gyllenhaal",
+      "Ryan Reynolds",
+      "Rebecca Ferguson",
+      "Hiroyuki Sanada",
+      "Ольга Дыховичная"
+    ]
+  },
+  {
+    "name": "Tenet",
+    "year": 2020,
+    "rating": 3.5,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "John David Washington",
+      "Robert Pattinson",
+      "Elizabeth Debicki",
+      "Kenneth Branagh",
+      "Dimple Kapadia"
+    ]
+  },
+  {
+    "name": "The Revenant",
+    "year": 2015,
+    "rating": 4.0,
+    "genres": [
+      "Western",
+      "Drama",
+      "Adventure"
+    ],
+    "director": "Alejandro G. Iñárritu",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Tom Hardy",
+      "Domhnall Gleeson",
+      "Will Poulter",
+      "Forrest Goodluck"
+    ]
+  },
+  {
+    "name": "Die Hard",
+    "year": 1988,
+    "rating": 3.5,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "director": "John McTiernan",
+    "cast": [
+      "Bruce Willis",
+      "Alan Rickman",
+      "Александр Годунов",
+      "Bonnie Bedelia",
+      "Reginald VelJohnson"
+    ]
+  },
+  {
+    "name": "Olympus Has Fallen",
+    "year": 2013,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "director": "Antoine Fuqua",
+    "cast": [
+      "Gerard Butler",
+      "Aaron Eckhart",
+      "Finley Jacobsen",
+      "Dylan McDermott",
+      "Rick Yune"
+    ]
+  },
+  {
+    "name": "London Has Fallen",
+    "year": 2016,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "director": "Babak Najafi",
+    "cast": [
+      "Gerard Butler",
+      "Aaron Eckhart",
+      "Angela Bassett",
+      "Morgan Freeman",
+      "Melissa Leo"
+    ]
+  },
+  {
+    "name": "Angel Has Fallen",
+    "year": 2019,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "director": "Ric Roman Waugh",
+    "cast": [
+      "Gerard Butler",
+      "Morgan Freeman",
+      "Jada Pinkett Smith",
+      "Nick Nolte",
+      "Danny Huston"
+    ]
+  },
+  {
+    "name": "Harry Potter and the Chamber of Secrets",
+    "year": 2002,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Chris Columbus",
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Kenneth Branagh",
+      "Toby Jones"
+    ]
+  },
+  {
+    "name": "Men in Black",
+    "year": 1997,
+    "rating": 3.5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "director": "Barry Sonnenfeld",
+    "cast": [
+      "Tommy Lee Jones",
+      "Will Smith",
+      "Linda Fiorentino",
+      "Vincent D'Onofrio",
+      "Rip Torn"
+    ]
+  },
+  {
+    "name": "Men in Black II",
+    "year": 2002,
+    "rating": 3.0,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "director": "Barry Sonnenfeld",
+    "cast": [
+      "Tommy Lee Jones",
+      "Will Smith",
+      "Rip Torn",
+      "Lara Flynn Boyle",
+      "Johnny Knoxville"
+    ]
+  },
+  {
+    "name": "A House of Dynamite",
+    "year": 2025,
+    "rating": 2.0,
+    "genres": [
+      "Thriller"
+    ],
+    "director": "Kathryn Bigelow",
+    "cast": [
+      "Idris Elba",
+      "Rebecca Ferguson",
+      "Gabriel Basso",
+      "Jared Harris",
+      "Tracy Letts"
+    ]
+  },
+  {
+    "name": "Memento",
+    "year": 2000,
+    "rating": 4.0,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano",
+      "Mark Boone Junior",
+      "Russ Fega"
+    ]
+  },
+  {
+    "name": "Law Abiding Citizen",
+    "year": 2009,
+    "rating": 3.5,
+    "genres": [
+      "Drama",
+      "Crime",
+      "Thriller"
+    ],
+    "director": "F. Gary Gray",
+    "cast": [
+      "Jamie Foxx",
+      "Gerard Butler",
+      "Colm Meaney",
+      "Bruce McGill",
+      "Leslie Bibb"
+    ]
+  },
+  {
+    "name": "Groundhog Day",
+    "year": 1993,
+    "rating": 3.0,
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Comedy"
+    ],
+    "director": "Harold Ramis",
+    "cast": [
+      "Bill Murray",
+      "Andie MacDowell",
+      "Chris Elliott",
+      "Stephen Tobolowsky",
+      "Brian Doyle-Murray"
+    ]
+  },
+  {
+    "name": "Edge of Tomorrow",
+    "year": 2014,
+    "rating": 5.0,
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "director": "Doug Liman",
+    "cast": [
+      "Tom Cruise",
+      "Emily Blunt",
+      "Brendan Gleeson",
+      "Bill Paxton",
+      "Jonas Armstrong"
+    ]
+  },
+  {
+    "name": "Ocean's Eleven",
+    "year": 2001,
+    "rating": 3.5,
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "director": "Steven Soderbergh",
+    "cast": [
+      "George Clooney",
+      "Brad Pitt",
+      "Andy Garcia",
+      "Matt Damon",
+      "Julia Roberts"
+    ]
+  },
+  {
+    "name": "Like a Cat on a Highway",
+    "year": 2017,
+    "rating": 3.0,
+    "genres": [
+      "Family",
+      "Comedy"
+    ],
+    "director": "Riccardo Milani",
+    "cast": [
+      "Paola Cortellesi",
+      "Antonio Albanese",
+      "Sonia Bergamasco",
+      "Luca Angeletti",
+      "Antonio D'Ausilio"
+    ]
+  },
+  {
+    "name": "Like a Cat on a Highway 2",
+    "year": 2021,
+    "rating": 3.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Riccardo Milani",
+    "cast": [
+      "Paola Cortellesi",
+      "Antonio Albanese",
+      "Sonia Bergamasco",
+      "Claudio Amendola",
+      "Luca Argentero"
+    ]
+  },
+  {
+    "name": "The Night Before the Exams",
+    "year": 2006,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Fausto Brizzi",
+    "cast": [
+      "Giorgio Faletti",
+      "Cristiana Capotondi",
+      "Nicolas Vaporidis",
+      "Sarah Maestri",
+      "Chiara Mastalli"
+    ]
+  },
+  {
+    "name": "The Night Before the Exams Today",
+    "year": 2007,
+    "rating": 2.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Fausto Brizzi",
+    "cast": [
+      "Giorgio Panariello",
+      "Nicolas Vaporidis",
+      "Carolina Crescentini",
+      "Serena Autieri",
+      "Paola Onofri"
+    ]
+  },
+  {
+    "name": "Where Am I Going?",
+    "year": 2016,
+    "rating": 4.0,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Adventure"
+    ],
+    "director": "Gennaro Nunziante",
+    "cast": [
+      "Checco Zalone",
+      "Eleonora Giovanardi",
+      "Sonia Bergamasco",
+      "Ludovica Modugno",
+      "Maurizio Micheli"
+    ]
+  },
+  {
+    "name": "Sun In Buckets",
+    "year": 2013,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Gennaro Nunziante",
+    "cast": [
+      "Checco Zalone",
+      "Miriam Dalmazio",
+      "Marco Paolini",
+      "Robert Dancs",
+      "Aurore Erguy"
+    ]
+  },
+  {
+    "name": "What a Beautiful Day",
+    "year": 2011,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Gennaro Nunziante",
+    "cast": [
+      "Checco Zalone",
+      "Nabiha Akkari",
+      "Rocco Papaleo",
+      "Tullio Solenghi",
+      "Anna Rita Del Piano"
+    ]
+  },
+  {
+    "name": "Tolo Tolo",
+    "year": 2020,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "director": "Checco Zalone",
+    "cast": [
+      "Checco Zalone",
+      "Manda Touré",
+      "Nassor Said Birya",
+      "Souleymane Sylla",
+      "Giovanni D'Addario"
+    ]
+  },
+  {
+    "name": "The Immature",
+    "year": 2011,
+    "rating": 3.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Paolo Genovese",
+    "cast": [
+      "Raoul Bova",
+      "Barbora Bobulova",
+      "Ambra Angiolini",
+      "Luca Bizzarri",
+      "Paolo Kessisoglu"
+    ]
+  },
+  {
+    "name": "Bridget Jones's Diary",
+    "year": 2001,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "director": "Sharon Maguire",
+    "cast": [
+      "Renée Zellweger",
+      "Colin Firth",
+      "Hugh Grant",
+      "Jim Broadbent",
+      "Gemma Jones"
+    ]
+  },
+  {
+    "name": "Bridge to Terabithia",
+    "year": 2007,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "director": "Gábor Csupó",
+    "cast": [
+      "Josh Hutcherson",
+      "AnnaSophia Robb",
+      "Zooey Deschanel",
+      "Robert Patrick",
+      "Bailee Madison"
+    ]
+  },
+  {
+    "name": "Bridget Jones: The Edge of Reason",
+    "year": 2004,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Beeban Kidron",
+    "cast": [
+      "Renée Zellweger",
+      "Colin Firth",
+      "Hugh Grant",
+      "Jacinda Barrett",
+      "Jim Broadbent"
+    ]
+  },
+  {
+    "name": "Treasure Planet",
+    "year": 2002,
+    "rating": 5.0,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Ron Clements",
+    "cast": [
+      "Joseph Gordon-Levitt",
+      "Brian Murray",
+      "Emma Thompson",
+      "David Hyde Pierce",
+      "Martin Short"
+    ]
+  },
+  {
+    "name": "Don't Stop Me Now",
+    "year": 2019,
+    "rating": 3.5,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Riccardo Milani",
+    "cast": [
+      "Paola Cortellesi",
+      "Stefano Fresi",
+      "Vinicio Marchioni",
+      "Lucia Mascino",
+      "Ricky Memphis"
+    ]
+  },
+  {
+    "name": "Dearest Relatives, Poisonous Relations",
+    "year": 1992,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Mario Monicelli",
+    "cast": [
+      "Marina Confalone",
+      "Tommaso Bianco",
+      "Renato Cecchetto",
+      "Alessandro Haber",
+      "Cinzia Leone"
+    ]
+  },
+  {
+    "name": "The Big Short",
+    "year": 2015,
+    "rating": 4.5,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Adam McKay",
+    "cast": [
+      "Steve Carell",
+      "Christian Bale",
+      "Ryan Gosling",
+      "Brad Pitt",
+      "Marisa Tomei"
+    ]
+  },
+  {
+    "name": "The Legendary Giulia and Other Miracles",
+    "year": 2015,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Edoardo Leo",
+    "cast": [
+      "Luca Argentero",
+      "Edoardo Leo",
+      "Claudio Amendola",
+      "Anna Foglietta",
+      "Stefano Fresi"
+    ]
+  },
+  {
+    "name": "A Time to Kill",
+    "year": 1996,
+    "rating": 4.0,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Joel Schumacher",
+    "cast": [
+      "Matthew McConaughey",
+      "Sandra Bullock",
+      "Samuel L. Jackson",
+      "Kevin Spacey",
+      "Ashley Judd"
+    ]
+  },
+  {
+    "name": "Happy Feet",
+    "year": 2006,
+    "rating": 2.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "George Miller",
+    "cast": [
+      "Elijah Wood",
+      "Robin Williams",
+      "Brittany Murphy",
+      "Hugh Jackman",
+      "Nicole Kidman"
+    ]
+  },
+  {
+    "name": "Pingu: Meet Pingu",
+    "year": 2003,
+    "rating": 3.0,
+    "genres": [
+      "Family",
+      "Animation"
+    ],
+    "director": "Otmar Gutmann",
+    "cast": [
+      "David Sant"
+    ]
+  },
+  {
+    "name": "Se7en",
+    "year": 1995,
+    "rating": 4.5,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Morgan Freeman",
+      "Brad Pitt",
+      "Gwyneth Paltrow",
+      "John Cassini",
+      "Peter Crombie"
+    ]
+  },
+  {
+    "name": "One Day",
+    "year": 2011,
+    "rating": 4.5,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Lone Scherfig",
+    "cast": [
+      "Anne Hathaway",
+      "Jim Sturgess",
+      "Tom Mison",
+      "Jodie Whittaker",
+      "Rafe Spall"
+    ]
+  },
+  {
+    "name": "La scuola",
+    "year": 1995,
+    "rating": 4.0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Daniele Luchetti",
+    "cast": [
+      "Silvio Orlando",
+      "Anna Galiena",
+      "Fabrizio Bentivoglio",
+      "Antonio Petrocelli",
+      "Anita Zagaria"
+    ]
+  },
+  {
+    "name": "(500) Days of Summer",
+    "year": 2009,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Marc Webb",
+    "cast": [
+      "Joseph Gordon-Levitt",
+      "Zooey Deschanel",
+      "Geoffrey Arend",
+      "Chloë Grace Moretz",
+      "Matthew Gray Gubler"
+    ]
+  },
+  {
+    "name": "Asterix and Obelix vs. Caesar",
+    "year": 1999,
+    "rating": 3.0,
+    "genres": [
+      "Family",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "director": "Claude Zidi",
+    "cast": [
+      "Christian Clavier",
+      "Gérard Depardieu",
+      "Roberto Benigni",
+      "Michel Galabru",
+      "Claude Piéplu"
+    ]
+  },
+  {
+    "name": "A Quiet Place",
+    "year": 2018,
+    "rating": 2.5,
+    "genres": [
+      "Horror",
+      "Drama",
+      "Science Fiction"
+    ],
+    "director": "John Krasinski",
+    "cast": [
+      "Emily Blunt",
+      "John Krasinski",
+      "Millicent Simmonds",
+      "Noah Jupe",
+      "Cade Woodward"
+    ]
+  },
+  {
+    "name": "Guardians of the Galaxy Vol. 2",
+    "year": 2017,
+    "rating": 3.5,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "director": "James Gunn",
+    "cast": [
+      "Chris Pratt",
+      "Zoe Saldaña",
+      "Dave Bautista",
+      "Vin Diesel",
+      "Bradley Cooper"
+    ]
+  },
+  {
+    "name": "Star Wars: Episode I – The Phantom Menace",
+    "year": 1999,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "director": "George Lucas",
+    "cast": [
+      "Liam Neeson",
+      "Ewan McGregor",
+      "Natalie Portman",
+      "Jake Lloyd",
+      "Ian McDiarmid"
+    ]
+  },
+  {
+    "name": "The Empire Strikes Back",
+    "year": 1980,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "director": "Irvin Kershner",
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams",
+      "Anthony Daniels"
+    ]
+  },
+  {
+    "name": "Return of the Jedi",
+    "year": 1983,
+    "rating": 4.5,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "director": "Richard Marquand",
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams",
+      "Anthony Daniels"
+    ]
+  },
+  {
+    "name": "Star Wars: Episode II – Attack of the Clones",
+    "year": 2002,
+    "rating": 3.0,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "director": "George Lucas",
+    "cast": [
+      "Hayden Christensen",
+      "Ewan McGregor",
+      "Natalie Portman",
+      "Christopher Lee",
+      "Samuel L. Jackson"
+    ]
+  },
+  {
+    "name": "Star Wars: Episode III – Revenge of the Sith",
+    "year": 2005,
+    "rating": 3.5,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "director": "George Lucas",
+    "cast": [
+      "Hayden Christensen",
+      "Ewan McGregor",
+      "Natalie Portman",
+      "Ian McDiarmid",
+      "Samuel L. Jackson"
+    ]
+  },
+  {
+    "name": "Star Wars: The Force Awakens",
+    "year": 2015,
+    "rating": 2.5,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "director": "J.J. Abrams",
+    "cast": [
+      "Daisy Ridley",
+      "John Boyega",
+      "Oscar Isaac",
+      "Adam Driver",
+      "Carrie Fisher"
+    ]
+  },
+  {
+    "name": "Rogue One: A Star Wars Story",
+    "year": 2016,
+    "rating": 3.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "Gareth Edwards",
+    "cast": [
+      "Felicity Jones",
+      "Diego Luna",
+      "Alan Tudyk",
+      "Donnie Yen",
+      "Jiang Wen"
+    ]
+  },
+  {
+    "name": "Moana",
+    "year": 2016,
+    "rating": 2.0,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Animation"
+    ],
+    "director": "Ron Clements",
+    "cast": [
+      "Auliʻi Cravalho",
+      "Dwayne Johnson",
+      "Rachel House",
+      "Temuera Morrison",
+      "Jemaine Clement"
+    ]
+  },
+  {
+    "name": "The Hunger Games: Mockingjay – Part 2",
+    "year": 2015,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "Francis Lawrence",
+    "cast": [
+      "Jennifer Lawrence",
+      "Josh Hutcherson",
+      "Liam Hemsworth",
+      "Woody Harrelson",
+      "Elizabeth Banks"
+    ]
+  },
+  {
+    "name": "Serendipity",
+    "year": 2001,
+    "rating": 4.0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Peter Chelsom",
+    "cast": [
+      "John Cusack",
+      "Kate Beckinsale",
+      "Jeremy Piven",
+      "Bridget Moynahan",
+      "John Corbett"
+    ]
+  },
+  {
+    "name": "Sliding Doors",
+    "year": 1998,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "director": "Peter Howitt",
+    "cast": [
+      "Gwyneth Paltrow",
+      "John Hannah",
+      "John Lynch",
+      "Jeanne Tripplehorn",
+      "Zara Turner"
+    ]
+  },
+  {
+    "name": "Reservoir Dogs",
+    "year": 1992,
+    "rating": 4.5,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Harvey Keitel",
+      "Tim Roth",
+      "Michael Madsen",
+      "Chris Penn",
+      "Steve Buscemi"
+    ]
+  },
+  {
+    "name": "Armageddon",
+    "year": 1998,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "director": "Michael Bay",
+    "cast": [
+      "Bruce Willis",
+      "Billy Bob Thornton",
+      "Ben Affleck",
+      "Liv Tyler",
+      "Will Patton"
+    ]
+  },
+  {
+    "name": "Fargo",
+    "year": 1996,
+    "rating": 3.5,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Joel Coen",
+    "cast": [
+      "Frances McDormand",
+      "William H. Macy",
+      "Steve Buscemi",
+      "Peter Stormare",
+      "Harve Presnell"
+    ]
+  },
+  {
+    "name": "The Big Lebowski",
+    "year": 1998,
+    "rating": 4.5,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Joel Coen",
+    "cast": [
+      "Jeff Bridges",
+      "John Goodman",
+      "Julianne Moore",
+      "Steve Buscemi",
+      "David Huddleston"
+    ]
+  },
+  {
+    "name": "G-Force",
+    "year": 2009,
+    "rating": 4.0,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Hoyt Yeatman",
+    "cast": [
+      "Sam Rockwell",
+      "Jon Favreau",
+      "Tracy Morgan",
+      "Penélope Cruz",
+      "Nicolas Cage"
+    ]
+  },
+  {
+    "name": "Life Is Beautiful",
+    "year": 1997,
+    "rating": 4.0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Roberto Benigni",
+    "cast": [
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Giorgio Cantarini",
+      "Giustino Durano",
+      "Sergio Bini Bustric"
+    ]
+  },
+  {
+    "name": "The Wave",
+    "year": 2008,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "director": "C. Thomas Howell",
+    "cast": [
+      "C. Thomas Howell",
+      "Fred Griffith",
+      "Zack Beseda",
+      "Christopher Reid",
+      "Kim Little"
+    ]
+  },
+  {
+    "name": "The Zookeeper's Wife",
+    "year": 2017,
+    "rating": 3.0,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "director": "Niki Caro",
+    "cast": [
+      "Jessica Chastain",
+      "Daniel Brühl",
+      "Johan Heldenbergh",
+      "Michael McElhatton",
+      "Timothy Radford"
+    ]
+  },
+  {
+    "name": "Now You See Me: Now You Don't",
+    "year": 2025,
+    "rating": 3.5,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Ruben Fleischer",
+    "cast": [
+      "Jesse Eisenberg",
+      "Dominic Sessa",
+      "Ariana Greenblatt",
+      "Justice Smith",
+      "Rosamund Pike"
+    ]
+  },
+  {
+    "name": "Now You See Me",
+    "year": 2013,
+    "rating": 4.0,
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "director": "Louis Leterrier",
+    "cast": [
+      "Jesse Eisenberg",
+      "Woody Harrelson",
+      "Isla Fisher",
+      "Dave Franco",
+      "Mark Ruffalo"
+    ]
+  },
+  {
+    "name": "Now You See Me 2",
+    "year": 2016,
+    "rating": 3.5,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Jon M. Chu",
+    "cast": [
+      "Jesse Eisenberg",
+      "Mark Ruffalo",
+      "Woody Harrelson",
+      "Dave Franco",
+      "Daniel Radcliffe"
+    ]
+  },
+  {
+    "name": "The Graduate",
+    "year": 1967,
+    "rating": 4.5,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ],
+    "director": "Mike Nichols",
+    "cast": [
+      "Dustin Hoffman",
+      "Anne Bancroft",
+      "Katharine Ross",
+      "Murray Hamilton",
+      "William Daniels"
+    ]
+  },
+  {
+    "name": "Four Weddings and a Funeral",
+    "year": 1994,
+    "rating": 4.5,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Mike Newell",
+    "cast": [
+      "Hugh Grant",
+      "Andie MacDowell",
+      "Kristin Scott Thomas",
+      "Simon Callow",
+      "James Fleet"
+    ]
+  },
+  {
+    "name": "Billy Elliot",
+    "year": 2000,
+    "rating": 3.0,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Music"
+    ],
+    "director": "Stephen Daldry",
+    "cast": [
+      "Jamie Bell",
+      "Gary Lewis",
+      "Julie Walters",
+      "Jean Heywood",
+      "Jamie Draven"
+    ]
+  },
+  {
+    "name": "Three Men and a Leg",
+    "year": 1997,
+    "rating": 5.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Remo Garpelli",
+    "cast": [
+      "Aldo Baglio",
+      "Giovanni Storti",
+      "Giacomo Poretti"
+    ]
+  },
+  {
+    "name": "Ask Me If I'm Happy",
+    "year": 2000,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Giovanni Storti",
+    "cast": [
+      "Aldo Baglio",
+      "Giovanni Storti",
+      "Giacomo Poretti",
+      "Marina Massironi",
+      "Silvana Fallisi"
+    ]
+  },
+  {
+    "name": "That's Life",
+    "year": 1998,
+    "rating": 3.5,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Massimo Venier",
+    "cast": [
+      "Aldo Baglio",
+      "Giovanni Storti",
+      "Giacomo Poretti",
+      "Marina Massironi",
+      "Antonio Catania"
+    ]
+  },
+  {
+    "name": "The Legend of Al, John and Jack",
+    "year": 2002,
+    "rating": 4.0,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Massimo Venier",
+    "cast": [
+      "Aldo Baglio",
+      "Giovanni Storti",
+      "Giacomo Poretti",
+      "Aldo Maccione",
+      "Antonio Catania"
+    ]
+  },
+  {
+    "name": "I Hate Summer",
+    "year": 2020,
+    "rating": 2.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Massimo Venier",
+    "cast": [
+      "Aldo Baglio",
+      "Giovanni Storti",
+      "Giacomo Poretti",
+      "Lucia Mascino",
+      "Carlotta Natoli"
+    ]
+  },
+  {
+    "name": "Have You Met Claudia?",
+    "year": 2004,
+    "rating": 3.5,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Massimo Venier",
+    "cast": [
+      "Aldo Baglio",
+      "Giovanni Storti",
+      "Giacomo Poretti",
+      "Paola Cortellesi",
+      "Ottavia Piccolo"
+    ]
+  },
+  {
+    "name": "The Santa Claus Gang",
+    "year": 2010,
+    "rating": 3.5,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Paolo Genovese",
+    "cast": [
+      "Aldo Baglio",
+      "Giovanni Storti",
+      "Giacomo Poretti",
+      "Angela Finocchiaro",
+      "Giovanni Esposito"
+    ]
+  },
+  {
+    "name": "The Cosmos on the Commode",
+    "year": 2008,
+    "rating": 3.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Marcello Cesena",
+    "cast": [
+      "Aldo Baglio",
+      "Giovanni Storti",
+      "Giacomo Poretti",
+      "Silvana Fallisi",
+      "Sara D'Amario"
+    ]
+  },
+  {
+    "name": "The Rich, the Pauper and the Butler",
+    "year": 2014,
+    "rating": 1.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Aldo Baglio",
+    "cast": [
+      "Aldo Baglio",
+      "Giovanni Storti",
+      "Giacomo Poretti",
+      "Giuliana Lojodice",
+      "Guadalupe Lancho"
+    ]
+  },
+  {
+    "name": "Escape From Reuma Park",
+    "year": 2016,
+    "rating": 1.5,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Giacomo Poretti",
+    "cast": [
+      "Aldo Baglio",
+      "Giovanni Storti",
+      "Giacomo Poretti",
+      "Silvana Fallisi",
+      "Salvatore Ficarra"
+    ]
+  },
+  {
+    "name": "Welcome to the South",
+    "year": 2010,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Luca Miniero",
+    "cast": [
+      "Claudio Bisio",
+      "Alessandro Siani",
+      "Angela Finocchiaro",
+      "Valentina Lodovini",
+      "Nando Paone"
+    ]
+  },
+  {
+    "name": "Welcome to the North",
+    "year": 2012,
+    "rating": 3.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Luca Miniero",
+    "cast": [
+      "Claudio Bisio",
+      "Alessandro Siani",
+      "Angela Finocchiaro",
+      "Valentina Lodovini",
+      "Nando Paone"
+    ]
+  },
+  {
+    "name": "Road Trip",
+    "year": 2000,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Adventure"
+    ],
+    "director": "Todd Phillips",
+    "cast": [
+      "Breckin Meyer",
+      "Seann William Scott",
+      "Amy Smart",
+      "Paulo Costanzo",
+      "DJ Qualls"
+    ]
+  },
+  {
+    "name": "The Silence of the Lambs",
+    "year": 1991,
+    "rating": 4.0,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "director": "Jonathan Demme",
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn",
+      "Ted Levine",
+      "Anthony Heald"
+    ]
+  },
+  {
+    "name": "The Rocker",
+    "year": 2008,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "director": "Peter Cattaneo",
+    "cast": [
+      "Rainn Wilson",
+      "Teddy Geiger",
+      "Josh Gad",
+      "Emma Stone",
+      "Christina Applegate"
+    ]
+  },
+  {
+    "name": "Miss Congeniality",
+    "year": 2000,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Action"
+    ],
+    "director": "Donald Petrie",
+    "cast": [
+      "Sandra Bullock",
+      "Benjamin Bratt",
+      "Heather Burns",
+      "Michael Caine",
+      "Ernie Hudson"
+    ]
+  },
+  {
+    "name": "The Da Vinci Code",
+    "year": 2006,
+    "rating": 3.5,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "director": "Ron Howard",
+    "cast": [
+      "Tom Hanks",
+      "Audrey Tautou",
+      "Ian McKellen",
+      "Jean Reno",
+      "Paul Bettany"
+    ]
+  },
+  {
+    "name": "Stigmata",
+    "year": 1999,
+    "rating": 2.5,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "director": "Rupert Wainwright",
+    "cast": [
+      "Patricia Arquette",
+      "Gabriel Byrne",
+      "Jonathan Pryce",
+      "Nia Long",
+      "Thomas Kopache"
+    ]
+  },
+  {
+    "name": "What Women Want",
+    "year": 2000,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Nancy Meyers",
+    "cast": [
+      "Mel Gibson",
+      "Helen Hunt",
+      "Marisa Tomei",
+      "Alan Alda",
+      "Ashley Johnson"
+    ]
+  },
+  {
+    "name": "Nothing Left to Do But Cry",
+    "year": 1984,
+    "rating": 2.0,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "director": "Massimo Troisi",
+    "cast": [
+      "Massimo Troisi",
+      "Roberto Benigni",
+      "Amanda Sandrelli",
+      "Iris Peynado",
+      "Carlo Monni"
+    ]
+  },
+  {
+    "name": "Fantozzi: White Collar Blues",
+    "year": 1975,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Luciano Salce",
+    "cast": [
+      "Paolo Villaggio",
+      "Anna Mazzamauro",
+      "Gigi Reder",
+      "Giuseppe Anatrelli",
+      "Umberto D'Orsi"
+    ]
+  },
+  {
+    "name": "The Second Tragic Fantozzi",
+    "year": 1976,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Luciano Salce",
+    "cast": [
+      "Paolo Villaggio",
+      "Anna Mazzamauro",
+      "Gigi Reder",
+      "Ugo Bologna",
+      "Mauro Vestri"
+    ]
+  },
+  {
+    "name": "Perfect Strangers",
+    "year": 2016,
+    "rating": 4.0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "director": "Θοδωρής Αθερίδης",
+    "cast": [
+      "Θοδωρής Αθερίδης",
+      "Σμαράγδα Καρύδη",
+      "Άλκης Κούρκουλος",
+      "Μαρία Ναυπλιώτου",
+      "Μάκης Παπαδημητρίου"
+    ]
+  },
+  {
+    "name": "7 and 8",
+    "year": 2007,
+    "rating": 3.5,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Giambattista Avellino",
+    "cast": [
+      "Salvatore Ficarra",
+      "Valentino Picone",
+      "Eleonora Abbagnato",
+      "Barbara Tabita",
+      "Arnoldo Foà"
+    ]
+  },
+  {
+    "name": "Cetto c'è, senzadubbiamente",
+    "year": 2019,
+    "rating": 3.5,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Giulio Manfredonia",
+    "cast": [
+      "Antonio Albanese",
+      "Nicola Rignanese",
+      "Caterina Shulha",
+      "Aurora Quattrocchi",
+      "Gianfelice Imparato"
+    ]
+  },
+  {
+    "name": "It’s the Law",
+    "year": 2017,
+    "rating": 3.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Salvatore Ficarra",
+    "cast": [
+      "Salvatore Ficarra",
+      "Valentino Picone",
+      "Vincenzo Amato",
+      "Tony Sperandeo",
+      "Leo Gullotta"
+    ]
+  },
+  {
+    "name": "Welcome Mr. President!",
+    "year": 2013,
+    "rating": 3.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Riccardo Milani",
+    "cast": [
+      "Claudio Bisio",
+      "Kasia Smutniak",
+      "Giuseppe Fiorello",
+      "Remo Girone",
+      "Massimo Popolizio"
+    ]
+  },
+  {
+    "name": "Welcome Back Mr. President",
+    "year": 2019,
+    "rating": 3.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Giuseppe G. Stasi",
+    "cast": [
+      "Claudio Bisio",
+      "Sarah Felberbaum",
+      "Pietro Sermonti",
+      "Paolo Calabresi",
+      "Guglielmo Poggi"
+    ]
+  },
+  {
+    "name": "The Comics",
+    "year": 1990,
+    "rating": 3.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Neri Parenti",
+    "cast": [
+      "Paolo Villaggio",
+      "Renato Pozzetto",
+      "Enzo Cannavale",
+      "Alessandra Casella",
+      "Fabio Traversa"
+    ]
+  },
+  {
+    "name": "L'allenatore nel pallone",
+    "year": 1984,
+    "rating": 3.5,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Sergio Martino",
+    "cast": [
+      "Lino Banfi",
+      "Camillo Milli",
+      "Andrea Roncato",
+      "Gigi Sammarchi",
+      "Giuliana Calandra"
+    ]
+  },
+  {
+    "name": "The Cyclone",
+    "year": 1996,
+    "rating": 4.5,
+    "genres": [
+      "Action",
+      "Drama",
+      "TV Movie"
+    ],
+    "director": "Timothy Bond",
+    "cast": [
+      "John Schneider",
+      "Devon Sawa",
+      "Amos Crawley",
+      "Lori Hallier",
+      "Laura Bertram"
+    ]
+  },
+  {
+    "name": "Women Vs Men",
+    "year": 2011,
+    "rating": 3.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Fausto Brizzi",
+    "cast": [
+      "Claudio Bisio",
+      "Nancy Brilli",
+      "Salvatore Ficarra",
+      "Valentino Picone",
+      "Francesca Inaudi"
+    ]
+  },
+  {
+    "name": "Men Vs Women",
+    "year": 2010,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Fausto Brizzi",
+    "cast": [
+      "Paola Cortellesi",
+      "Fabio De Luigi",
+      "Sarah Felberbaum",
+      "Chiara Francini",
+      "Lucia Ocone"
+    ]
+  },
+  {
+    "name": "Escort in Love",
+    "year": 2011,
+    "rating": 3.5,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Massimiliano Bruno",
+    "cast": [
+      "Paola Cortellesi",
+      "Raoul Bova",
+      "Rocco Papaleo",
+      "Valerio Aprea",
+      "Anna Foglietta"
+    ]
+  },
+  {
+    "name": "Ex",
+    "year": 2009,
+    "rating": 2.5,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Fausto Brizzi",
+    "cast": [
+      "Claudio Bisio",
+      "Nancy Brilli",
+      "Cristiana Capotondi",
+      "Cécile Cassel",
+      "Fabio De Luigi"
+    ]
+  },
+  {
+    "name": "Angels & Demons",
+    "year": 2009,
+    "rating": 3.5,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "director": "Ron Howard",
+    "cast": [
+      "Tom Hanks",
+      "Ewan McGregor",
+      "Ayelet Zurer",
+      "Stellan Skarsgård",
+      "Pierfrancesco Favino"
+    ]
+  },
+  {
+    "name": "Lost in Translation",
+    "year": 2003,
+    "rating": 2.0,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Sofia Coppola",
+    "cast": [
+      "Bill Murray",
+      "Scarlett Johansson",
+      "Giovanni Ribisi",
+      "Anna Faris",
+      "Akiko Takeshita"
+    ]
+  },
+  {
+    "name": "2012",
+    "year": 2009,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "Roland Emmerich",
+    "cast": [
+      "John Cusack",
+      "Amanda Peet",
+      "Chiwetel Ejiofor",
+      "Thandiwe Newton",
+      "Oliver Platt"
+    ]
+  },
+  {
+    "name": "I Am Legend",
+    "year": 2007,
+    "rating": 4.0,
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "director": "Francis Lawrence",
+    "cast": [
+      "Will Smith",
+      "Alice Braga",
+      "Charlie Tahan",
+      "Dash Mihok",
+      "Salli Richardson-Whitfield"
+    ]
+  },
+  {
+    "name": "The Hateful Eight",
+    "year": 2015,
+    "rating": 3.5,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Western"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Samuel L. Jackson",
+      "Kurt Russell",
+      "Jennifer Jason Leigh",
+      "Walton Goggins",
+      "Demián Bichir"
+    ]
+  },
+  {
+    "name": "Me Before You",
+    "year": 2016,
+    "rating": 2.5,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Thea Sharrock",
+    "cast": [
+      "Emilia Clarke",
+      "Sam Claflin",
+      "Janet McTeer",
+      "Charles Dance",
+      "Brendan Coyle"
+    ]
+  },
+  {
+    "name": "Breaking Up in Rome",
+    "year": 2021,
+    "rating": 3.5,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Edoardo Leo",
+    "cast": [
+      "Edoardo Leo",
+      "Marta Nieto",
+      "Claudia Gerini",
+      "Stefano Fresi",
+      "Gigio Morra"
+    ]
+  },
+  {
+    "name": "Hot Tub Time Machine",
+    "year": 2010,
+    "rating": 3.0,
+    "genres": [
+      "Science Fiction",
+      "Comedy",
+      "Adventure"
+    ],
+    "director": "Steve Pink",
+    "cast": [
+      "John Cusack",
+      "Craig Robinson",
+      "Rob Corddry",
+      "Clark Duke",
+      "Sebastian Stan"
+    ]
+  },
+  {
+    "name": "Hot Tub Time Machine 2",
+    "year": 2015,
+    "rating": 2.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Steve Pink",
+    "cast": [
+      "Rob Corddry",
+      "Craig Robinson",
+      "Clark Duke",
+      "Bianca Haase",
+      "Chevy Chase"
+    ]
+  },
+  {
+    "name": "Il migliore dei mondi",
+    "year": 2023,
+    "rating": 2.5,
+    "genres": [
+      "Comedy",
+      "Science Fiction"
+    ],
+    "director": "Maccio Capatonda",
+    "cast": [
+      "Maccio Capatonda",
+      "Martina Gatti",
+      "Pietro Sermonti",
+      "Valerio Desirò",
+      "Luca Vecchi"
+    ]
+  },
+  {
+    "name": "Superbad",
+    "year": 2007,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Greg Mottola",
+    "cast": [
+      "Jonah Hill",
+      "Michael Cera",
+      "Christopher Mintz-Plasse",
+      "Bill Hader",
+      "Seth Rogen"
+    ]
+  },
+  {
+    "name": "Nim's Island",
+    "year": 2008,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Jennifer Flackett",
+    "cast": [
+      "Abigail Breslin",
+      "Jodie Foster",
+      "Gerard Butler",
+      "Michael Carman",
+      "Maddison Joyce"
+    ]
+  },
+  {
+    "name": "Avatar: Fire and Ash",
+    "year": 2025,
+    "rating": 4.0,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "James Cameron",
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldaña",
+      "Sigourney Weaver",
+      "Stephen Lang",
+      "Oona Chaplin"
+    ]
+  },
+  {
+    "name": "Role Models",
+    "year": 2008,
+    "rating": 3.5,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "David Wain",
+    "cast": [
+      "Seann William Scott",
+      "Paul Rudd",
+      "Christopher Mintz-Plasse",
+      "Bobb'e J. Thompson",
+      "Elizabeth Banks"
+    ]
+  },
+  {
+    "name": "Good Luck Chuck",
+    "year": 2007,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Mark Helfrich",
+    "cast": [
+      "Dane Cook",
+      "Jessica Alba",
+      "Dan Fogler",
+      "Ellia English",
+      "Lonny Ross"
+    ]
+  },
+  {
+    "name": "Accepted",
+    "year": 2006,
+    "rating": 2.5,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Steve Pink",
+    "cast": [
+      "Justin Long",
+      "Jonah Hill",
+      "Blake Lively",
+      "Adam Herschman",
+      "Columbus Short"
+    ]
+  },
+  {
+    "name": "Christiane F.",
+    "year": 1981,
+    "rating": 4.0,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Uli Edel",
+    "cast": [
+      "Natja Brunckhorst",
+      "Thomas Haustein",
+      "Jens Kuphal",
+      "Rainer Woelk",
+      "David Bowie"
+    ]
+  },
+  {
+    "name": "Buen Camino",
+    "year": 2025,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Adventure"
+    ],
+    "director": "Gennaro Nunziante",
+    "cast": [
+      "Checco Zalone",
+      "Beatriz Arjona",
+      "Letizia Arnò",
+      "Martina Colombari",
+      "Hossein Taheri"
+    ]
+  },
+  {
+    "name": "The Perks of Being a Wallflower",
+    "year": 2012,
+    "rating": 5.0,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Stephen Chbosky",
+    "cast": [
+      "Logan Lerman",
+      "Emma Watson",
+      "Ezra Miller",
+      "Mae Whitman",
+      "Kate Walsh"
+    ]
+  },
+  {
+    "name": "The Circle",
+    "year": 2017,
+    "rating": 3.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Crime",
+      "Science Fiction"
+    ],
+    "director": "Matthew Vaughn",
+    "cast": [
+      "Taron Egerton",
+      "Colin Firth",
+      "Julianne Moore",
+      "Mark Strong",
+      "Hanna Alström"
+    ]
+  },
+  {
+    "name": "Beauty and the Beast",
+    "year": 2017,
+    "rating": 2.5,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Romance"
+    ],
+    "director": "Bill Condon",
+    "cast": [
+      "Emma Watson",
+      "Dan Stevens",
+      "Luke Evans",
+      "Kevin Kline",
+      "Emma Thompson"
+    ]
+  },
+  {
+    "name": "Bruce Almighty",
+    "year": 2003,
+    "rating": 4.0,
+    "genres": [
+      "Fantasy",
+      "Comedy"
+    ],
+    "director": "Tom Shadyac",
+    "cast": [
+      "Jim Carrey",
+      "Morgan Freeman",
+      "Jennifer Aniston",
+      "Philip Baker Hall",
+      "Catherine Bell"
+    ]
+  },
+  {
+    "name": "Evan Almighty",
+    "year": 2007,
+    "rating": 3.5,
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Tom Shadyac",
+    "cast": [
+      "Steve Carell",
+      "Morgan Freeman",
+      "Lauren Graham",
+      "Johnny Simmons",
+      "Graham Phillips"
+    ]
+  },
+  {
+    "name": "Brother Bear",
+    "year": 2003,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "director": "Aaron Blaise",
+    "cast": [
+      "Joaquin Phoenix",
+      "Jeremy Suarez",
+      "Jason Raize",
+      "Rick Moranis",
+      "Dave Thomas"
+    ]
+  },
+  {
+    "name": "CODA",
+    "year": 2021,
+    "rating": 4.0,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "director": "Sian Heder",
+    "cast": [
+      "Emilia Jones",
+      "Marlee Matlin",
+      "Troy Kotsur",
+      "Eugenio Derbez",
+      "Ferdia Walsh-Peelo"
+    ]
+  },
+  {
+    "name": "John Wick",
+    "year": 2014,
+    "rating": 3.0,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "director": "Chad Stahelski",
+    "cast": [
+      "Keanu Reeves",
+      "Michael Nyqvist",
+      "Alfie Allen",
+      "Willem Dafoe",
+      "Dean Winters"
+    ]
+  },
+  {
+    "name": "Charlie and the Chocolate Factory",
+    "year": 2005,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Tim Burton",
+    "cast": [
+      "Johnny Depp",
+      "Freddie Highmore",
+      "David Kelly",
+      "Helena Bonham Carter",
+      "Noah Taylor"
+    ]
+  },
+  {
+    "name": "Game Night",
+    "year": 2018,
+    "rating": 2.5,
+    "genres": [
+      "Mystery",
+      "Comedy",
+      "Crime"
+    ],
+    "director": "John Francis Daley",
+    "cast": [
+      "Jason Bateman",
+      "Rachel McAdams",
+      "Kyle Chandler",
+      "Sharon Horgan",
+      "Billy Magnussen"
+    ]
+  },
+  {
+    "name": "Paul Blart: Mall Cop",
+    "year": 2009,
+    "rating": 2.5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Steve Carr",
+    "cast": [
+      "Kevin James",
+      "Keir O'Donnell",
+      "Jayma Mays",
+      "Raini Rodriguez",
+      "Shirley Knight"
+    ]
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "year": 1994,
+    "rating": 3.5,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "director": "Frank Darabont",
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "William Sadler",
+      "Clancy Brown"
+    ]
+  },
+  {
+    "name": "Fight Club",
+    "year": 1999,
+    "rating": 3.5,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Edward Norton",
+      "Brad Pitt",
+      "Helena Bonham Carter",
+      "Meat Loaf",
+      "Jared Leto"
+    ]
+  },
+  {
+    "name": "Italian Gigolo",
+    "year": 2022,
+    "rating": 3.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Greg",
+    "cast": [
+      "Lillo",
+      "Greg",
+      "Ilaria Spada",
+      "Francesco Arca",
+      "Marina Valdemoro Maino"
+    ]
+  },
+  {
+    "name": "The Hungover Games",
+    "year": 2014,
+    "rating": 2.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Josh Stolberg",
+    "cast": [
+      "Ben Begley",
+      "Herbert Russell",
+      "Ross Nathan",
+      "Sam Pancake",
+      "John Livingston"
+    ]
+  },
+  {
+    "name": "Cado dalle nubi",
+    "year": 2009,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Gennaro Nunziante",
+    "cast": [
+      "Checco Zalone",
+      "Giulia Michelini",
+      "Dino Abbrescia",
+      "Fabio Troiano",
+      "Ivano Marescotti"
+    ]
+  },
+  {
+    "name": "The Holiday",
+    "year": 2006,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Nancy Meyers",
+    "cast": [
+      "Cameron Diaz",
+      "Kate Winslet",
+      "Jude Law",
+      "Jack Black",
+      "Eli Wallach"
+    ]
+  },
+  {
+    "name": "Mortal Engines",
+    "year": 2018,
+    "rating": 3.0,
+    "genres": [
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "Christian Rivers",
+    "cast": [
+      "Hera Hilmar",
+      "Robert Sheehan",
+      "Hugo Weaving",
+      "Jihae",
+      "Ronan Raftery"
+    ]
+  },
+  {
+    "name": "American Pie",
+    "year": 1999,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Paul Weitz",
+    "cast": [
+      "Jason Biggs",
+      "Chris Klein",
+      "Thomas Ian Nicholas",
+      "Alyson Hannigan",
+      "Shannon Elizabeth"
+    ]
+  },
+  {
+    "name": "American Pie 2",
+    "year": 2001,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "J.B. Rogers",
+    "cast": [
+      "Jason Biggs",
+      "Thomas Ian Nicholas",
+      "Chris Klein",
+      "Seann William Scott",
+      "Eddie Kaye Thomas"
+    ]
+  },
+  {
+    "name": "American Wedding",
+    "year": 2003,
+    "rating": 2.0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Jesse Dylan",
+    "cast": [
+      "Jason Biggs",
+      "Seann William Scott",
+      "Alyson Hannigan",
+      "Eddie Kaye Thomas",
+      "Thomas Ian Nicholas"
+    ]
+  },
+  {
+    "name": "The 40 Year Old Virgin",
+    "year": 2005,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Judd Apatow",
+    "cast": [
+      "Steve Carell",
+      "Catherine Keener",
+      "Paul Rudd",
+      "Romany Malco",
+      "Seth Rogen"
+    ]
+  },
+  {
+    "name": "Jumanji",
+    "year": 1995,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Family"
+    ],
+    "director": "Joe Johnston",
+    "cast": [
+      "Robin Williams",
+      "Kirsten Dunst",
+      "Bradley Pierce",
+      "Bonnie Hunt",
+      "Jonathan Hyde"
+    ]
+  },
+  {
+    "name": "Space Jam",
+    "year": 1996,
+    "rating": 5.0,
+    "genres": [
+      "Family",
+      "Animation",
+      "Science Fiction",
+      "Fantasy",
+      "Comedy"
+    ],
+    "director": "Joe Pytka",
+    "cast": [
+      "Michael Jordan",
+      "Wayne Knight",
+      "Theresa Randle",
+      "Manner Washington",
+      "Eric Gordon"
+    ]
+  },
+  {
+    "name": "Babe: Pig in the City",
+    "year": 1998,
+    "rating": 3.5,
+    "genres": [
+      "Family",
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "director": "George Miller",
+    "cast": [
+      "E. G. Daily",
+      "Magda Szubanski",
+      "James Cromwell",
+      "Mickey Rooney",
+      "Mary Stein"
+    ]
+  },
+  {
+    "name": "The Rip",
+    "year": 2026,
+    "rating": 3.5,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "director": "Joe Carnahan",
+    "cast": [
+      "Matt Damon",
+      "Ben Affleck",
+      "Teyana Taylor",
+      "Steven Yeun",
+      "Catalina Sandino Moreno"
+    ]
+  },
+  {
+    "name": "No Country for Old Men",
+    "year": 2007,
+    "rating": 3.0,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Western"
+    ],
+    "director": "Joel Coen",
+    "cast": [
+      "Javier Bardem",
+      "Tommy Lee Jones",
+      "Josh Brolin",
+      "Woody Harrelson",
+      "Kelly Macdonald"
+    ]
+  },
+  {
+    "name": "Face/Off",
+    "year": 1997,
+    "rating": 3.5,
+    "genres": [
+      "Action",
+      "Crime",
+      "Science Fiction"
+    ],
+    "director": "John Woo",
+    "cast": [
+      "John Travolta",
+      "Nicolas Cage",
+      "Joan Allen",
+      "Alessandro Nivola",
+      "Gina Gershon"
+    ]
+  },
+  {
+    "name": "Wake Up Dead Man",
+    "year": 2025,
+    "rating": 3.5,
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Comedy"
+    ],
+    "director": "Rian Johnson",
+    "cast": [
+      "Daniel Craig",
+      "Josh O'Connor",
+      "Glenn Close",
+      "Josh Brolin",
+      "Mila Kunis"
+    ]
+  },
+  {
+    "name": "About Time",
+    "year": 2013,
+    "rating": 4.5,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Fantasy"
+    ],
+    "director": "Richard Curtis",
+    "cast": [
+      "Domhnall Gleeson",
+      "Rachel McAdams",
+      "Bill Nighy",
+      "Tom Hollander",
+      "Margot Robbie"
+    ]
+  },
+  {
+    "name": "Gladiator II",
+    "year": 2024,
+    "rating": 3.5,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Ridley Scott",
+    "cast": [
+      "Paul Mescal",
+      "Denzel Washington",
+      "Pedro Pascal",
+      "Connie Nielsen",
+      "Joseph Quinn"
+    ]
+  },
+  {
+    "name": "Wild",
+    "year": 2014,
+    "rating": 3.0,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Sean Penn",
+    "cast": [
+      "Emile Hirsch",
+      "Marcia Gay Harden",
+      "William Hurt",
+      "Jena Malone",
+      "Brian H. Dierker"
+    ]
+  },
+  {
+    "name": "Train Dreams",
+    "year": 2025,
+    "rating": 2.5,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Clint Bentley",
+    "cast": [
+      "Joel Edgerton",
+      "Felicity Jones",
+      "Nathaniel Arcand",
+      "Clifton Collins Jr.",
+      "John Diehl"
+    ]
+  },
+  {
+    "name": "One Kiss",
+    "year": 2016,
+    "rating": 3.5,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "director": "Ivan Cotroneo",
+    "cast": [
+      "Rimau Grillo Ritzberger",
+      "Valentina Romani",
+      "Leonardo Pazzagli",
+      "Thomas Trabacchi",
+      "Susy Laude"
+    ]
+  },
+  {
+    "name": "Management",
+    "year": 2008,
+    "rating": 2.5,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Peter Segal",
+    "cast": [
+      "Adam Sandler",
+      "Jack Nicholson",
+      "Marisa Tomei",
+      "Luis Guzmán",
+      "Allen Covert"
+    ]
+  },
+  {
+    "name": "Air",
+    "year": 2023,
+    "rating": 4.0,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "director": "Ben Affleck",
+    "cast": [
+      "Matt Damon",
+      "Jason Bateman",
+      "Ben Affleck",
+      "Chris Messina",
+      "Viola Davis"
+    ]
+  },
+  {
+    "name": "Before Sunset",
+    "year": 2004,
+    "rating": 4.0,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Richard Linklater",
+    "cast": [
+      "Ethan Hawke",
+      "Julie Delpy",
+      "Vernon Dobtcheff",
+      "Louise Lemoine Torrès",
+      "Rodolphe Pauly"
+    ]
+  },
+  {
+    "name": "Before Midnight",
+    "year": 2013,
+    "rating": 4.0,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "director": "Richard Linklater",
+    "cast": [
+      "Ethan Hawke",
+      "Julie Delpy",
+      "Seamus Davey-Fitzpatrick",
+      "Jennifer Prior",
+      "Charlotte Prior"
+    ]
+  },
+  {
+    "name": "Aladdin",
+    "year": 1992,
+    "rating": 4.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "director": "John Musker",
+    "cast": [
+      "Scott Weinger",
+      "Robin Williams",
+      "Linda Larkin",
+      "Jonathan Freeman",
+      "Gilbert Gottfried"
+    ]
+  },
+  {
+    "name": "Beauty and the Beast",
+    "year": 1991,
+    "rating": 3.0,
+    "genres": [
+      "Romance",
+      "Family",
+      "Animation",
+      "Fantasy"
+    ],
+    "director": "Gary Trousdale",
+    "cast": [
+      "Paige O'Hara",
+      "Robby Benson",
+      "Richard White",
+      "Jerry Orbach",
+      "David Ogden Stiers"
+    ]
+  },
+  {
+    "name": "Romeo + Juliet",
+    "year": 1996,
+    "rating": 3.0,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Baz Luhrmann",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Claire Danes",
+      "Jesse Bradford",
+      "Vondie Curtis-Hall",
+      "Brian Dennehy"
+    ]
+  },
+  {
+    "name": "Tarzan",
+    "year": 1999,
+    "rating": 4.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure"
+    ],
+    "director": "Chris Buck",
+    "cast": [
+      "Tony Goldwyn",
+      "Minnie Driver",
+      "Glenn Close",
+      "Alex D. Linz",
+      "Rosie O'Donnell"
+    ]
+  },
+  {
+    "name": "10 Things I Hate About You",
+    "year": 1999,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "director": "Gil Junger",
+    "cast": [
+      "Heath Ledger",
+      "Julia Stiles",
+      "Joseph Gordon-Levitt",
+      "Larisa Oleynik",
+      "David Krumholtz"
+    ]
+  },
+  {
+    "name": "Before Sunrise",
+    "year": 1995,
+    "rating": 4.5,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Richard Linklater",
+    "cast": [
+      "Ethan Hawke",
+      "Julie Delpy",
+      "Andrea Eckert",
+      "Hanno Pöschl",
+      "Karl Bruckschwaiger"
+    ]
+  },
+  {
+    "name": "Amélie",
+    "year": 2001,
+    "rating": 4.0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Jean-Pierre Jeunet",
+    "cast": [
+      "Audrey Tautou",
+      "Mathieu Kassovitz",
+      "Rufus",
+      "Serge Merlin",
+      "Jamel Debbouze"
+    ]
+  },
+  {
+    "name": "The Virgin Suicides",
+    "year": 1999,
+    "rating": 3.5,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Sofia Coppola",
+    "cast": [
+      "Kirsten Dunst",
+      "Josh Hartnett",
+      "James Woods",
+      "Kathleen Turner",
+      "Michael Paré"
+    ]
+  },
+  {
+    "name": "Inside Man",
+    "year": 2006,
+    "rating": 3.5,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Spike Lee",
+    "cast": [
+      "Denzel Washington",
+      "Clive Owen",
+      "Jodie Foster",
+      "Christopher Plummer",
+      "Willem Dafoe"
+    ]
+  },
+  {
+    "name": "The Lost World: Jurassic Park",
+    "year": 1997,
+    "rating": 3.5,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Jeff Goldblum",
+      "Julianne Moore",
+      "Pete Postlethwaite",
+      "Arliss Howard",
+      "Richard Attenborough"
+    ]
+  },
+  {
+    "name": "Independence Day",
+    "year": 1996,
+    "rating": 3.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "Roland Emmerich",
+    "cast": [
+      "Will Smith",
+      "Bill Pullman",
+      "Jeff Goldblum",
+      "Mary McDonnell",
+      "Judd Hirsch"
+    ]
+  },
+  {
+    "name": "Casper",
+    "year": 1995,
+    "rating": 3.0,
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Brad Silberling",
+    "cast": [
+      "Christina Ricci",
+      "Bill Pullman",
+      "Cathy Moriarty",
+      "Eric Idle",
+      "Malachi Pearson"
+    ]
+  },
+  {
+    "name": "The Hangover",
+    "year": 2009,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Todd Phillips",
+    "cast": [
+      "Bradley Cooper",
+      "Ed Helms",
+      "Zach Galifianakis",
+      "Justin Bartha",
+      "Heather Graham"
+    ]
+  },
+  {
+    "name": "The Hangover Part II",
+    "year": 2011,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Todd Phillips",
+    "cast": [
+      "Bradley Cooper",
+      "Ed Helms",
+      "Zach Galifianakis",
+      "Justin Bartha",
+      "Mason Lee"
+    ]
+  },
+  {
+    "name": "The Hangover Part III",
+    "year": 2013,
+    "rating": 3.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Todd Phillips",
+    "cast": [
+      "Bradley Cooper",
+      "Ed Helms",
+      "Zach Galifianakis",
+      "Justin Bartha",
+      "Ken Jeong"
+    ]
+  },
+  {
+    "name": "Mr. & Mrs. Smith",
+    "year": 2005,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Doug Liman",
+    "cast": [
+      "Brad Pitt",
+      "Angelina Jolie",
+      "Vince Vaughn",
+      "Adam Brody",
+      "Kerry Washington"
+    ]
+  },
+  {
+    "name": "Night at the Museum",
+    "year": 2006,
+    "rating": 3.5,
+    "genres": [
+      "Fantasy",
+      "Family",
+      "Comedy"
+    ],
+    "director": "Shawn Levy",
+    "cast": [
+      "Ben Stiller",
+      "Carla Gugino",
+      "Dick Van Dyke",
+      "Mickey Rooney",
+      "Bill Cobbs"
+    ]
+  },
+  {
+    "name": "The Boy in the Striped Pyjamas",
+    "year": 2008,
+    "rating": 4.0,
+    "genres": [
+      "Drama",
+      "War",
+      "History"
+    ],
+    "director": "Mark Herman",
+    "cast": [
+      "Asa Butterfield",
+      "Vera Farmiga",
+      "David Thewlis",
+      "Jack Scanlon",
+      "Amber Beattie"
+    ]
+  },
+  {
+    "name": "The Polar Express",
+    "year": 2004,
+    "rating": 5.0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Tom Hanks",
+      "Leslie Zemeckis",
+      "Eddie Deezen",
+      "Nona Gaye",
+      "Peter Scolari"
+    ]
+  },
+  {
+    "name": "Scary Movie",
+    "year": 2000,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Keenen Ivory Wayans",
+    "cast": [
+      "Anna Faris",
+      "Regina Hall",
+      "Marlon Wayans",
+      "Shawn Wayans",
+      "Jon Abrahams"
+    ]
+  },
+  {
+    "name": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+    "year": 2006,
+    "rating": 4.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Larry Charles",
+    "cast": [
+      "Sacha Baron Cohen",
+      "Ken Davitian",
+      "Luenell",
+      "Pamela Anderson",
+      "Bob Barr"
+    ]
+  },
+  {
+    "name": "Scooby-Doo",
+    "year": 2002,
+    "rating": 3.0,
+    "genres": [
+      "Mystery",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Raja Gosnell",
+    "cast": [
+      "Freddie Prinze Jr.",
+      "Sarah Michelle Gellar",
+      "Matthew Lillard",
+      "Linda Cardellini",
+      "Neil Fanning"
+    ]
+  },
+  {
+    "name": "The Matrix Reloaded",
+    "year": 2003,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "director": "Lana Wachowski",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving",
+      "Jada Pinkett Smith"
+    ]
+  },
+  {
+    "name": "The Matrix Resurrections",
+    "year": 2021,
+    "rating": 3.0,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "director": "Lana Wachowski",
+    "cast": [
+      "Keanu Reeves",
+      "Carrie-Anne Moss",
+      "Yahya Abdul-Mateen II",
+      "Jonathan Groff",
+      "Jessica Henwick"
+    ]
+  },
+  {
+    "name": "The Matrix Revolutions",
+    "year": 2003,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "director": "Lilly Wachowski",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving",
+      "Jada Pinkett Smith"
+    ]
+  },
+  {
+    "name": "Million Dollar Baby",
+    "year": 2004,
+    "rating": 4.5,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Clint Eastwood",
+    "cast": [
+      "Clint Eastwood",
+      "Hilary Swank",
+      "Morgan Freeman",
+      "Jay Baruchel",
+      "Mike Colter"
+    ]
+  },
+  {
+    "name": "Chicken Run",
+    "year": 2000,
+    "rating": 3.5,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Peter Lord",
+    "cast": [
+      "Julia Sawalha",
+      "Mel Gibson",
+      "Imelda Staunton",
+      "Jane Horrocks",
+      "Lynn Ferguson"
+    ]
+  },
+  {
+    "name": "Surf's Up",
+    "year": 2007,
+    "rating": 4.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Chris Buck",
+    "cast": [
+      "Shia LaBeouf",
+      "Jeff Bridges",
+      "Zooey Deschanel",
+      "Jon Heder",
+      "James Woods"
+    ]
+  },
+  {
+    "name": "King Kong",
+    "year": 2005,
+    "rating": 3.5,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action"
+    ],
+    "director": "Peter Jackson",
+    "cast": [
+      "Naomi Watts",
+      "Adrien Brody",
+      "Jack Black",
+      "Andy Serkis",
+      "Colin Hanks"
+    ]
+  },
+  {
+    "name": "The Chronicles of Narnia: Prince Caspian",
+    "year": 2008,
+    "rating": 3.5,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Andrew Adamson",
+    "cast": [
+      "William Moseley",
+      "Anna Popplewell",
+      "Skandar Keynes",
+      "Georgie Henley",
+      "Ben Barnes"
+    ]
+  },
+  {
+    "name": "A World Apart",
+    "year": 2024,
+    "rating": 2.5,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Riccardo Milani",
+    "cast": [
+      "Antonio Albanese",
+      "Virginia Raffaele",
+      "Sergio Saltarelli",
+      "Alessandra Barbonetti",
+      "Solidea Pistilli"
+    ]
+  },
+  {
+    "name": "The Voices",
+    "year": 2014,
+    "rating": 2.5,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Horror",
+      "Fantasy"
+    ],
+    "director": "Marjane Satrapi",
+    "cast": [
+      "Ryan Reynolds",
+      "Gemma Arterton",
+      "Anna Kendrick",
+      "Jacki Weaver",
+      "Ella Smith"
+    ]
+  },
+  {
+    "name": "Flushed Away",
+    "year": 2006,
+    "rating": 3.0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "David Bowers",
+    "cast": [
+      "Hugh Jackman",
+      "Kate Winslet",
+      "Ian McKellen",
+      "Jean Reno",
+      "Bill Nighy"
+    ]
+  },
+  {
+    "name": "Wallace & Gromit: The Curse of the Were-Rabbit",
+    "year": 2005,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Steve Box",
+    "cast": [
+      "Peter Sallis",
+      "Ralph Fiennes",
+      "Helena Bonham Carter",
+      "Peter Kay",
+      "Nicholas Smith"
+    ]
+  },
+  {
+    "name": "Monsters vs Aliens",
+    "year": 2009,
+    "rating": 3.5,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "Rob Letterman",
+    "cast": [
+      "Reese Witherspoon",
+      "Hugh Laurie",
+      "Rainn Wilson",
+      "Will Arnett",
+      "Kiefer Sutherland"
+    ]
+  },
+  {
+    "name": "Barnyard",
+    "year": 2006,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Steve Oedekerk",
+    "cast": [
+      "Kevin James",
+      "Courteney Cox",
+      "Sam Elliott",
+      "Danny Glover",
+      "Wanda Sykes"
+    ]
+  },
+  {
+    "name": "Planet 51",
+    "year": 2009,
+    "rating": 2.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "director": "Jorge Blanco",
+    "cast": [
+      "Dwayne Johnson",
+      "Seann William Scott",
+      "Jessica Biel",
+      "Justin Long",
+      "Gary Oldman"
+    ]
+  },
+  {
+    "name": "Open Season",
+    "year": 2006,
+    "rating": 3.5,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Roger Allers",
+    "cast": [
+      "Martin Lawrence",
+      "Ashton Kutcher",
+      "Gary Sinise",
+      "Debra Messing",
+      "Billy Connolly"
+    ]
+  },
+  {
+    "name": "Shrek the Halls",
+    "year": 2007,
+    "rating": 4.0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Fantasy",
+      "Family"
+    ],
+    "director": "Gary Trousdale",
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "Antonio Banderas",
+      "Cody Cameron"
+    ]
+  },
+  {
+    "name": "Inferno",
+    "year": 2016,
+    "rating": 2.5,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Action"
+    ],
+    "director": "Ron Howard",
+    "cast": [
+      "Tom Hanks",
+      "Felicity Jones",
+      "Omar Sy",
+      "Irrfan Khan",
+      "Sidse Babett Knudsen"
+    ]
+  },
+  {
+    "name": "La fame e la sete",
+    "year": 1999,
+    "rating": 3.0,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Antonio Albanese",
+    "cast": [
+      "Antonio Albanese",
+      "Lorenza Indovina",
+      "Aisha Cerami",
+      "Lucia Guzzardi",
+      "Rosa Pianeta"
+    ]
+  },
+  {
+    "name": "Falling Down",
+    "year": 1993,
+    "rating": 3.0,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Joel Schumacher",
+    "cast": [
+      "Michael Douglas",
+      "Robert Duvall",
+      "Barbara Hershey",
+      "Rachel Ticotin",
+      "Tuesday Weld"
+    ]
+  },
+  {
+    "name": "Scott Pilgrim vs. the World",
+    "year": 2010,
+    "rating": 4.0,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Edgar Wright",
+    "cast": [
+      "Michael Cera",
+      "Mary Elizabeth Winstead",
+      "Ellen Wong",
+      "Kieran Culkin",
+      "Alison Pill"
+    ]
+  },
+  {
+    "name": "The Ugly Truth",
+    "year": 2009,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Robert Luketic",
+    "cast": [
+      "Katherine Heigl",
+      "Gerard Butler",
+      "Eric Winter",
+      "Nick Searcy",
+      "Bree Turner"
+    ]
+  },
+  {
+    "name": "Hitch",
+    "year": 2005,
+    "rating": 4.0,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Andy Tennant",
+    "cast": [
+      "Will Smith",
+      "Eva Mendes",
+      "Kevin James",
+      "Amber Valletta",
+      "Julie Ann Emery"
+    ]
+  },
+  {
+    "name": "The Breakfast Club",
+    "year": 1985,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "John Hughes",
+    "cast": [
+      "Emilio Estevez",
+      "Judd Nelson",
+      "Molly Ringwald",
+      "Anthony Michael Hall",
+      "Ally Sheedy"
+    ]
+  },
+  {
+    "name": "Easy A",
+    "year": 2010,
+    "rating": 2.5,
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Will Gluck",
+    "cast": [
+      "Emma Stone",
+      "Penn Badgley",
+      "Amanda Bynes",
+      "Dan Byrd",
+      "Thomas Haden Church"
+    ]
+  },
+  {
+    "name": "The Day After Tomorrow",
+    "year": 2004,
+    "rating": 4.0,
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Adventure"
+    ],
+    "director": "Roland Emmerich",
+    "cast": [
+      "Dennis Quaid",
+      "Jake Gyllenhaal",
+      "Emmy Rossum",
+      "Dash Mihok",
+      "Jay O. Sanders"
+    ]
+  },
+  {
+    "name": "Shooter",
+    "year": 2007,
+    "rating": 3.5,
+    "genres": [
+      "Drama",
+      "Action",
+      "Thriller"
+    ],
+    "director": "Antoine Fuqua",
+    "cast": [
+      "Mark Wahlberg",
+      "Michael Peña",
+      "Danny Glover",
+      "Kate Mara",
+      "Elias Koteas"
+    ]
+  },
+  {
+    "name": "The Super Mario Galaxy Movie",
+    "year": 2026,
+    "rating": 3.5,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Animation"
+    ],
+    "director": "Michael Jelenic",
+    "cast": [
+      "Chris Pratt",
+      "Anya Taylor-Joy",
+      "Charlie Day",
+      "Jack Black",
+      "Donald Glover"
+    ]
+  },
+  {
+    "name": "The Sixth Sense",
+    "year": 1999,
+    "rating": 4.0,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "director": "M. Night Shyamalan",
+    "cast": [
+      "Bruce Willis",
+      "Haley Joel Osment",
+      "Toni Collette",
+      "Olivia Williams",
+      "Trevor Morgan"
+    ]
+  },
+  {
+    "name": "The Meg",
+    "year": 2018,
+    "rating": 3.0,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Horror"
+    ],
+    "director": "Jon Turteltaub",
+    "cast": [
+      "Jason Statham",
+      "Li Bingbing",
+      "Rainn Wilson",
+      "Cliff Curtis",
+      "Ruby Rose"
+    ]
+  },
+  {
+    "name": "Meg 2: The Trench",
+    "year": 2023,
+    "rating": 2.5,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Horror"
+    ],
+    "director": "Ben Wheatley",
+    "cast": [
+      "Jason Statham",
+      "吴京",
+      "Shuya Sophia Cai",
+      "Page Kennedy",
+      "Sergio Peris-Mencheta"
+    ]
+  },
+  {
+    "name": "Under Paris",
+    "year": 2024,
+    "rating": 3.0,
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "director": "Xavier Gens",
+    "cast": [
+      "Bérénice Bejo",
+      "Nassim Lyes",
+      "Léa Léviant",
+      "Sandra Parfait",
+      "Aksel Üstün"
+    ]
+  },
+  {
+    "name": "Diary of a Wimpy Kid",
+    "year": 2010,
+    "rating": 4.0,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "director": "Thor Freudenthal",
+    "cast": [
+      "Zachary Gordon",
+      "Robert Capron",
+      "Steve Zahn",
+      "Devon Bostick",
+      "Rachael Harris"
+    ]
+  },
+  {
+    "name": "Diary of a Wimpy Kid: Rodrick Rules",
+    "year": 2011,
+    "rating": 4.0,
+    "genres": [
+      "Family",
+      "Comedy"
+    ],
+    "director": "David Bowers",
+    "cast": [
+      "Zachary Gordon",
+      "Devon Bostick",
+      "Robert Capron",
+      "Steve Zahn",
+      "Rachael Harris"
+    ]
+  },
+  {
+    "name": "Diary of a Wimpy Kid: Dog Days",
+    "year": 2012,
+    "rating": 3.0,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "director": "David Bowers",
+    "cast": [
+      "Zachary Gordon",
+      "Robert Capron",
+      "Devon Bostick",
+      "Peyton List",
+      "Steve Zahn"
+    ]
+  },
+  {
+    "name": "WALL·E",
+    "year": 2008,
+    "rating": 3.0,
+    "genres": [
+      "Animation",
+      "Family",
+      "Science Fiction"
+    ],
+    "director": "Andrew Stanton",
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin",
+      "Fred Willard",
+      "John Ratzenberger"
+    ]
+  },
+  {
+    "name": "Antz",
+    "year": 1998,
+    "rating": 4.0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Eric Darnell",
+    "cast": [
+      "Woody Allen",
+      "Sharon Stone",
+      "Dan Aykroyd",
+      "Anne Bancroft",
+      "Danny Glover"
+    ]
+  },
+  {
+    "name": "Point Break",
+    "year": 1991,
+    "rating": 3.0,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "director": "Kathryn Bigelow",
+    "cast": [
+      "Keanu Reeves",
+      "Patrick Swayze",
+      "Lori Petty",
+      "Gary Busey",
+      "John C. McGinley"
+    ]
+  },
+  {
+    "name": "Burn After Reading",
+    "year": 2008,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Ethan Coen",
+    "cast": [
+      "George Clooney",
+      "Frances McDormand",
+      "Brad Pitt",
+      "John Malkovich",
+      "Tilda Swinton"
+    ]
+  },
+  {
+    "name": "Good Will Hunting",
+    "year": 1997,
+    "rating": 4.5,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Gus Van Sant",
+    "cast": [
+      "Matt Damon",
+      "Robin Williams",
+      "Ben Affleck",
+      "Stellan Skarsgård",
+      "Minnie Driver"
+    ]
+  },
+  {
+    "name": "When Harry Met Sally...",
+    "year": 1989,
+    "rating": 4.0,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "director": "Rob Reiner",
+    "cast": [
+      "Billy Crystal",
+      "Meg Ryan",
+      "Carrie Fisher",
+      "Bruno Kirby",
+      "Steven Ford"
+    ]
+  },
+  {
+    "name": "Hancock",
+    "year": 2008,
+    "rating": 3.0,
+    "genres": [
+      "Fantasy",
+      "Action"
+    ],
+    "director": "Peter Berg",
+    "cast": [
+      "Will Smith",
+      "Charlize Theron",
+      "Jason Bateman",
+      "Jae Head",
+      "Eddie Marsan"
+    ]
+  },
+  {
+    "name": "The Devil Wears Prada 2",
+    "year": 2026,
+    "rating": 3.5,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "David Frankel",
+    "cast": [
+      "Meryl Streep",
+      "Anne Hathaway",
+      "Emily Blunt",
+      "Stanley Tucci",
+      "Justin Theroux"
+    ]
+  },
+  {
+    "name": "Send Help",
+    "year": 2026,
+    "rating": 2.5,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Comedy"
+    ],
+    "director": "Sam Raimi",
+    "cast": [
+      "Rachel McAdams",
+      "Dylan O'Brien",
+      "Edyll Ismail",
+      "Dennis Haysbert",
+      "Xavier Samuel"
+    ]
+  },
+  {
+    "name": "The Notebook",
+    "year": 2004,
+    "rating": 3.5,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "director": "Nick Cassavetes",
+    "cast": [
+      "Ryan Gosling",
+      "Rachel McAdams",
+      "Gena Rowlands",
+      "James Garner",
+      "Joan Allen"
+    ]
+  }
+]
